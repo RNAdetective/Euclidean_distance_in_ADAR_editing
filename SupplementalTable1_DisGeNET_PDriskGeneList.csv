@@ -1,0 +1,182 @@
+Supplemental_Table_1: Parkinson's Disease associated genes from DisGeNET. Disease association score > 0.3 shows evidence supported by In silico or In vivo studies.,,,
+,,,
+Disease_name,Gene,Gene_Description,Disease_Association_score
+Parkinson Disease,SNCA,synuclein alpha,1
+Parkinson Disease,LRRK2,leucine rich repeat kinase 2,1
+Parkinson Disease,GBA1,glucosylceramidase beta 1,1
+Parkinson Disease,PRKN,parkin RBR E3 ubiquitin protein ligase,1
+Parkinson Disease,VPS35,VPS35 retromer complex component,1
+Parkinson Disease,PINK1,PTEN induced kinase 1,1
+Parkinson Disease,PARK7,Parkinsonism associated deglycase,1
+Parkinson Disease,MAPT,microtubule associated protein tau,1
+Parkinson Disease,GDNF,glial cell derived neurotrophic factor,1
+Parkinson Disease,TH,tyrosine hydroxylase,1
+Parkinson Disease,MAOB,monoamine oxidase B,1
+Parkinson Disease,BDNF,brain derived neurotrophic factor,1
+Parkinson Disease,NR4A2,nuclear receptor subfamily 4 group A member 2,1
+Young onset Parkinson disease,PRKN,parkin RBR E3 ubiquitin protein ligase,0.95
+Parkinson Disease,SLC6A3,solute carrier family 6 member 3,0.95
+Parkinson Disease,DDC,dopa decarboxylase,0.95
+Parkinson Disease,SLC18A2,solute carrier family 18 member A2,0.95
+Parkinson Disease,ATP13A2,ATPase cation transporting 13A2,0.95
+Parkinson Disease,PPARGC1A,PPARG coactivator 1 alpha,0.95
+Parkinson Disease,UCHL1,ubiquitin C-terminal hydrolase L1,0.95
+Parkinson Disease,SOD1,superoxide dismutase 1,0.9
+Parkinson Disease,DRD2,dopamine receptor D2,0.9
+Parkinson Disease,TARDBP,TAR DNA binding protein,0.9
+Parkinson Disease,SYNJ1,synaptojanin 1,0.9
+Parkinson Disease,SNCB,synuclein beta,0.9
+Parkinson Disease,TFAM,"transcription factor A, mitochondrial",0.9
+Parkinson Disease,GSTP1,glutathione S-transferase pi 1,0.85
+Parkinson Disease,CYP2D6,cytochrome P450 family 2 subfamily D member 6 (gene/pseudogene),0.85
+Parkinson Disease,GSTM1,glutathione S-transferase mu 1,0.85
+Parkinson Disease,HSPA9,heat shock protein family A (Hsp70) member 9,0.85
+Parkinson Disease,INS,insulin,0.85
+Young onset Parkinson disease,PARK7,Parkinsonism associated deglycase,0.85
+Parkinson Disease,IL6,interleukin 6,0.85
+Parkinson Disease,TNF,tumor necrosis factor,0.85
+Parkinson Disease,NOS1,nitric oxide synthase 1,0.85
+Parkinson Disease,NQO1,NAD(P)H quinone dehydrogenase 1,0.85
+Parkinson Disease,GFAP,glial fibrillary acidic protein,0.85
+Parkinson Disease,MAOA,monoamine oxidase A,0.85
+Parkinson Disease,NGF,nerve growth factor,0.85
+Parkinson Disease,ABCB1,ATP binding cassette subfamily B member 1,0.85
+Parkinson Disease,DNAJC6,DnaJ heat shock protein family (Hsp40) member C6,0.85
+Parkinson Disease,FBXO7,F-box protein 7,0.85
+Parkinson Disease,PLA2G6,phospholipase A2 group VI,0.8
+Parkinson Disease,VPS13C,vacuolar protein sorting 13 homolog C,0.8
+Parkinson Disease,SOD2,superoxide dismutase 2,0.8
+Parkinson Disease,TMEM230,transmembrane protein 230,0.8
+Parkinson Disease,IGF2,insulin like growth factor 2,0.8
+Young onset Parkinson disease,PINK1,PTEN induced kinase 1,0.8
+Parkinson Disease,BST1,bone marrow stromal cell antigen 1,0.8
+Parkinson Disease,DRD1,dopamine receptor D1,0.8
+Parkinson Disease,HLA-DRA,"major histocompatibility complex, class II, DR alpha",0.8
+Parkinson Disease,PARP1,poly(ADP-ribose) polymerase 1,0.8
+Parkinson Disease,HNMT,histamine N-methyltransferase,0.8
+Parkinson Disease,NAT2,N-acetyltransferase 2,0.8
+Parkinson Disease,ANG,angiogenin,0.8
+Parkinson Disease,HSPA8,heat shock protein family A (Hsp70) member 8,0.8
+Parkinson Disease,POLG,"DNA polymerase gamma, catalytic subunit",0.8
+Parkinson Disease,CYP1A1,cytochrome P450 family 1 subfamily A member 1,0.8
+Parkinson Disease,AKT1,AKT serine/threonine kinase 1,0.8
+Parkinson Disease,DNAJC13,DnaJ heat shock protein family (Hsp40) member C13,0.8
+Parkinson Disease,HTRA2,HtrA serine peptidase 2,0.8
+Parkinson Disease,HTT,huntingtin,0.8
+Parkinson Disease,SLC11A2,solute carrier family 11 member 2,0.8
+Parkinson Disease,KLK6,kallikrein related peptidase 6,0.8
+Parkinson Disease,MAPK1,mitogen-activated protein kinase 1,0.8
+Parkinson Disease,DBH,dopamine beta-hydroxylase,0.8
+Parkinson Disease,CYP1A2,cytochrome P450 family 1 subfamily A member 2,0.75
+Parkinson Disease,CP,ceruloplasmin,0.75
+Parkinson Disease,GAK,cyclin G associated kinase,0.75
+Parkinson Disease,HFE,homeostatic iron regulator,0.75
+Parkinson Disease,ADORA2A,adenosine A2a receptor,0.75
+Parkinson Disease,HSPA1A,heat shock protein family A (Hsp70) member 1A,0.75
+Parkinson Disease,MTHFR,methylenetetrahydrofolate reductase,0.75
+Parkinson Disease,HMOX1,heme oxygenase 1,0.75
+Parkinson Disease,RAB32,"RAB32, member RAS oncogene family",0.75
+Parkinson Disease,CYP2E1,cytochrome P450 family 2 subfamily E member 1,0.75
+Parkinson Disease,SNCAIP,synuclein alpha interacting protein,0.75
+Parkinson Disease,ALDH2,aldehyde dehydrogenase 2 family member,0.75
+Parkinson Disease,DNM1L,dynamin 1 like,0.75
+Young onset Parkinson disease,SNCA,synuclein alpha,0.75
+Parkinson Disease,EPO,erythropoietin,0.75
+Parkinson Disease,ESR2,estrogen receptor 2,0.75
+Parkinson Disease,MAPT-AS1,MAPT antisense RNA 1,0.75
+Juvenile Parkinson's disease,PRKN,parkin RBR E3 ubiquitin protein ligase,0.75
+Parkinson Disease,GIGYF2,GRB10 interacting GYF protein 2,0.75
+Parkinson Disease,CASP3,caspase 3,0.75
+Parkinson Disease,SNCA-AS1,SNCA antisense RNA 1,0.75
+Parkinson Disease,VDR,vitamin D receptor,0.75
+Parkinson Disease,GSTT1,glutathione S-transferase theta 1,0.75
+Parkinson Disease,HLA-DRB1,"major histocompatibility complex, class II, DR beta 1",0.75
+Young onset Parkinson disease,LRRK2,leucine rich repeat kinase 2,0.7
+Young onset Parkinson disease,SYNJ1,synaptojanin 1,0.7
+Young onset Parkinson disease,VPS13C,vacuolar protein sorting 13 homolog C,0.7
+Parkinson Disease,TRPM2,transient receptor potential cation channel subfamily M member 2,0.7
+Parkinson Disease,GDF5,growth differentiation factor 5,0.7
+Parkinson Disease,ATM,ATM serine/threonine kinase,0.7
+Parkinson Disease,EPHX1,epoxide hydrolase 1,0.7
+Parkinson Disease,GRK6,G protein-coupled receptor kinase 6,0.7
+Parkinson Disease,EN1,engrailed homeobox 1,0.7
+Parkinson Disease,NQO2,N-ribosyldihydronicotinamide:quinone dehydrogenase 2,0.7
+Parkinson Disease,MAPK3,mitogen-activated protein kinase 3,0.7
+Parkinson Disease,CASP9,caspase 9,0.7
+Parkinson Disease,CAST,calpastatin,0.7
+Parkinson Disease,GSTO1,glutathione S-transferase omega 1,0.7
+Parkinson Disease,CREB1,cAMP responsive element binding protein 1,0.7
+Parkinson Disease,TNK2,tyrosine kinase non receptor 2,0.65
+Parkinson Disease,INSR,insulin receptor,0.65
+Parkinson Disease,BAG5,BAG cochaperone 5,0.65
+Parkinson Disease,ENO2,enolase 2,0.65
+Parkinson Disease,SLC30A10,solute carrier family 30 member 10,0.65
+Parkinson Disease,HGF,hepatocyte growth factor,0.65
+Parkinson Disease,MAP3K5,mitogen-activated protein kinase kinase kinase 5,0.65
+Parkinson Disease,DDIT4,DNA damage inducible transcript 4,0.65
+Young onset Parkinson disease,DNAJC6,DnaJ heat shock protein family (Hsp40) member C6,0.65
+Parkinson Disease,GSTA4,glutathione S-transferase alpha 4,0.65
+Parkinson Disease,AIF1,allograft inflammatory factor 1,0.65
+Parkinson Disease,NDUFV2,NADH:ubiquinone oxidoreductase core subunit V2,0.65
+Parkinson Disease,ND3,NADH dehydrogenase subunit 3,0.65
+Parkinson Disease,ND4,NADH dehydrogenase subunit 4,0.65
+Parkinson Disease,ATP6,ATP synthase F0 subunit 6,0.65
+Parkinson Disease,ND1,NADH dehydrogenase subunit 1,0.65
+Parkinson Disease,ND2,NADH dehydrogenase subunit 2,0.65
+Parkinson Disease,HMGCR,3-hydroxy-3-methylglutaryl-CoA reductase,0.65
+Parkinson Disease,EIF2AK2,eukaryotic translation initiation factor 2 alpha kinase 2,0.65
+Parkinson Disease,A2M,alpha-2-macroglobulin,0.65
+Parkinson Disease,RFC1,replication factor C subunit 1,0.6
+Parkinson Disease,BSN,bassoon presynaptic cytomatrix protein,0.6
+Parkinson Disease,TGM6,transglutaminase 6,0.6
+Parkinson Disease,TNR,tenascin R,0.6
+Parkinson Disease,FCER2,Fc epsilon receptor II,0.6
+Parkinson Disease,HBG1,hemoglobin subunit gamma 1,0.6
+Parkinson Disease,IGF2R,insulin like growth factor 2 receptor,0.6
+Parkinson Disease,MAP2,microtubule associated protein 2,0.6
+Parkinson Disease,MIR181C,microRNA 181c,0.6
+Parkinson Disease,MAG,myelin associated glycoprotein,0.6
+Parkinson Disease,MTA1,metastasis associated 1,0.6
+Parkinson Disease,RIC3,RIC3 acetylcholine receptor chaperone,0.6
+Young onset Parkinson disease,GBA1,glucosylceramidase beta 1,0.6
+Young onset Parkinson disease,PACRG,parkin coregulated,0.6
+Parkinson Disease,IGF1R,insulin like growth factor 1 receptor,0.55
+Parkinson Disease,NECTIN2,nectin cell adhesion molecule 2,0.55
+Parkinson Disease,FBP1,fructose-bisphosphatase 1,0.55
+Parkinson Disease,SEPTIN14,septin 14,0.55
+Parkinson Disease,PHACTR2,phosphatase and actin regulator 2,0.55
+Parkinson Disease,MTRR,5-methyltetrahydrofolate-homocysteine methyltransferase reductase,0.55
+Parkinson Disease,CHRNB3,cholinergic receptor nicotinic beta 3 subunit,0.55
+Parkinson Disease,CNTNAP2,contactin associated protein 2,0.5
+Parkinson Disease,NCAPG2,non-SMC condensin II complex subunit G2,0.5
+Parkinson Disease,ADARB2,adenosine deaminase RNA specific B2 (inactive),0.5
+Parkinson Disease,DRAXIN,dorsal inhibitory axon guidance protein,0.5
+Parkinson Disease,DEFA4,defensin alpha 4,0.5
+Parkinson Disease,RPL6,ribosomal protein L6,0.5
+Young onset Parkinson disease,PODXL,podocalyxin like,0.5
+Parkinson Disease,COL19A1,collagen type XIX alpha 1 chain,0.5
+Parkinson Disease,EDN1,endothelin 1,0.5
+Parkinson Disease,CEACAM6,CEA cell adhesion molecule 6,0.5
+Idiopathic Parkinsonism or Parkinson's disease,SNCA,synuclein alpha,0.5
+Primary Parkinsonism or Parkinson's disease,SNCA,synuclein alpha,0.5
+Idiopathic Parkinsonism or Parkinson's disease,VPS13C,vacuolar protein sorting 13 homolog C,0.45
+Primary Parkinsonism or Parkinson's disease,VPS13C,vacuolar protein sorting 13 homolog C,0.45
+Parkinson Disease,TCN2,transcobalamin 2,0.45
+Idiopathic Parkinsonism or Parkinson's disease,DNAJC6,DnaJ heat shock protein family (Hsp40) member C6,0.45
+Primary Parkinsonism or Parkinson's disease,DNAJC6,DnaJ heat shock protein family (Hsp40) member C6,0.45
+Parkinson Disease,LOC106627981,GBA recombination region,0.4
+Parkinson Disease,KCNK18,potassium two pore domain channel subfamily K member 18,0.4
+Parkinson Disease,KCNJ4,potassium inwardly rectifying channel subfamily J member 4,0.4
+Parkinson Disease,FGB,fibrinogen beta chain,0.4
+Parkinson Disease,RPS8,ribosomal protein S8,0.4
+Parkinson Disease,SLC38A2,solute carrier family 38 member 2,0.4
+Parkinson Disease,RPL23A,ribosomal protein L23a,0.4
+Juvenile Parkinson's disease,PACRG,parkin coregulated,0.4
+Young onset Parkinson disease,THAP1,THAP domain containing 1,0.4
+Young onset Parkinson disease,CATIP-AS2,CATIP antisense RNA 2,0.4
+Young onset Parkinson disease,PNKD,PNKD metallo-beta-lactamase domain containing,0.4
+Young onset Parkinson disease,BSCL2,"BSCL2 lipid droplet biogenesis associated, seipin",0.4
+Parkinson Disease,PINK1-AS,PINK1 antisense RNA,0.4
+Juvenile Parkinson's disease,PARK7,Parkinsonism associated deglycase,0.4
+Young onset Parkinson disease,HNRNPUL2-BSCL2,HNRNPUL2-BSCL2 readthrough (NMD candidate),0.4
+Parkinson Disease,PTGIS,prostaglandin I2 synthase,0.4

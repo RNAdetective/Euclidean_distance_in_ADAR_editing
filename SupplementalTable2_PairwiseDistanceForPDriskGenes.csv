@@ -1,0 +1,907 @@
+Supplemental Table_2: Edited coordinates filtered for d >= 1 and PD risk genes from DisGeNET gene list.,,,,,,,
+,Chromosome,Position,Gene,d,Disease_name,Gene_Description,Disease_Association_score
+1,chr1,226555302,PARP1,1.485742687,Parkinson Disease,poly(ADP-ribose) polymerase 1,0.8
+2,chr1,226573364,PARP1,1.627735291,Parkinson Disease,poly(ADP-ribose) polymerase 1,0.8
+3,chr2,208465778,CREB1,1.414801124,Parkinson Disease,cAMP responsive element binding protein 1,0.7
+4,chr2,208466270,CREB1,1.120188122,Parkinson Disease,cAMP responsive element binding protein 1,0.7
+5,chr2,208467150,CREB1,1.273735671,Parkinson Disease,cAMP responsive element binding protein 1,0.7
+6,chr4,15739498,BST1,1.179520563,Parkinson Disease,bone marrow stromal cell antigen 1,0.8
+7,chr5,96031569,CAST,1.01203776,Parkinson Disease,calpastatin,0.7
+8,chr5,176867943,GRK6,1.517336511,Parkinson Disease,G protein-coupled receptor kinase 6,0.7
+9,chr6,32410987,HLA-DRA,1.158863431,Parkinson Disease,"major histocompatibility complex, class II, DR alpha",0.8
+10,chr6,32412539,HLA-DRA,1.612860111,Parkinson Disease,"major histocompatibility complex, class II, DR alpha",0.8
+11,chr6,32546684,HLA-DRB1,1.944898678,Parkinson Disease,"major histocompatibility complex, class II, DR beta 1",0.75
+12,chr6,32546800,HLA-DRB1,1.999537015,Parkinson Disease,"major histocompatibility complex, class II, DR beta 1",0.75
+13,chr6,32552075,HLA-DRB1,1.56809743,Parkinson Disease,"major histocompatibility complex, class II, DR beta 1",0.75
+14,chr6,160392025,IGF2R,1.559045826,Parkinson Disease,insulin like growth factor 2 receptor,0.6
+15,chr6,160395632,IGF2R,1.72730691,Parkinson Disease,insulin like growth factor 2 receptor,0.6
+16,chr6,160453978,IGF2R,1.457394258,Parkinson Disease,insulin like growth factor 2 receptor,0.6
+17,chr6,160468278,IGF2R,1.880755922,Parkinson Disease,insulin like growth factor 2 receptor,0.6
+18,chr11,108155718,ATM,2.553523568,Parkinson Disease,ATM serine/threonine kinase,0.7
+19,chr11,122928622,HSPA8,1.364156171,Parkinson Disease,heat shock protein family A (Hsp70) member 8,0.8
+20,chr11,122929624,HSPA8,1.588241111,Parkinson Disease,heat shock protein family A (Hsp70) member 8,0.8
+21,chr12,9273530,A2M,1.34820402,Parkinson Disease,alpha-2-macroglobulin,0.65
+22,chr12,9273610,A2M,1.643204683,Parkinson Disease,alpha-2-macroglobulin,0.65
+23,chr12,9273671,A2M,1.247454352,Parkinson Disease,alpha-2-macroglobulin,0.65
+24,chr12,40757330,LRRK2,1.23575924,Parkinson Disease,leucine rich repeat kinase 2,1
+25,chr12,40757330,LRRK2,1.23575924,Young onset Parkinson disease,leucine rich repeat kinase 2,0.7
+26,chr12,51386066,SLC11A2,1.566721999,Parkinson Disease,solute carrier family 11 member 2,0.8
+27,chr22,22121155,MAPK1,1.372696427,Parkinson Disease,mitogen-activated protein kinase 1,0.8
+28,chr1,20977380,PINK1,1.683862001,Parkinson Disease,PTEN induced kinase 1,1
+29,chr1,20977380,PINK1,1.683862001,Young onset Parkinson disease,PTEN induced kinase 1,0.8
+30,chr1,226570840,PARP1,1.362405348,Parkinson Disease,poly(ADP-ribose) polymerase 1,0.8
+31,chr5,96114493,CAST,1.212031822,Parkinson Disease,calpastatin,0.7
+32,chr6,32557506,HLA-DRB1,1.835941149,Parkinson Disease,"major histocompatibility complex, class II, DR beta 1",0.75
+33,chr6,136977568,MAP3K5,1.485999426,Parkinson Disease,mitogen-activated protein kinase kinase kinase 5,0.65
+34,chr6,160111081,SOD2,1.257893536,Parkinson Disease,superoxide dismutase 2,0.8
+35,chr6,160390241,IGF2R,1.336107424,Parkinson Disease,insulin like growth factor 2 receptor,0.6
+36,chr6,160436203,IGF2R,1.017230449,Parkinson Disease,insulin like growth factor 2 receptor,0.6
+37,chr6,160514541,IGF2R,1.523171996,Parkinson Disease,insulin like growth factor 2 receptor,0.6
+38,chr11,108131797,ATM,1.264818824,Parkinson Disease,ATM serine/threonine kinase,0.7
+39,chr11,108158134,ATM,1.399607615,Parkinson Disease,ATM serine/threonine kinase,0.7
+40,chr20,5081049,TMEM230,2.021300566,Parkinson Disease,transmembrane protein 230,0.8
+41,chr22,22112527,MAPK1,1.29161448,Parkinson Disease,mitogen-activated protein kinase 1,0.8
+42,chr22,22115498,MAPK1,1.216593175,Parkinson Disease,mitogen-activated protein kinase 1,0.8
+43,chr22,22121554,MAPK1,1.548183462,Parkinson Disease,mitogen-activated protein kinase 1,0.8
+44,chr22,22122149,MAPK1,1.289172499,Parkinson Disease,mitogen-activated protein kinase 1,0.8
+45,chr4,843695,GAK,1.367512045,Parkinson Disease,cyclin G associated kinase,0.75
+46,chr4,15739488,BST1,1.190587126,Parkinson Disease,bone marrow stromal cell antigen 1,0.8
+47,chr4,39303925,RFC1,1.232914402,Parkinson Disease,replication factor C subunit 1,0.6
+48,chr5,7870973,MTRR,1.414050522,Parkinson Disease,5-methyltetrahydrofolate-homocysteine methyltransferase reductase,0.55
+49,chr6,3010298,NQO2,1.203194762,Parkinson Disease,N-ribosyldihydronicotinamide:quinone dehydrogenase 2,0.7
+50,chr6,32546838,HLA-DRB1,2.173743374,Parkinson Disease,"major histocompatibility complex, class II, DR beta 1",0.75
+51,chr6,32552112,HLA-DRB1,1.507083792,Parkinson Disease,"major histocompatibility complex, class II, DR beta 1",0.75
+52,chr6,32553508,HLA-DRB1,1.127415008,Parkinson Disease,"major histocompatibility complex, class II, DR beta 1",0.75
+53,chr6,32557267,HLA-DRB1,1.018310711,Parkinson Disease,"major histocompatibility complex, class II, DR beta 1",0.75
+54,chr6,32557560,HLA-DRB1,1.759749798,Parkinson Disease,"major histocompatibility complex, class II, DR beta 1",0.75
+55,chr6,137108757,MAP3K5,1.392186566,Parkinson Disease,mitogen-activated protein kinase kinase kinase 5,0.65
+56,chr6,160106463,SOD2,1.172504988,Parkinson Disease,superoxide dismutase 2,0.8
+57,chr6,160108425,SOD2,1.265087108,Parkinson Disease,superoxide dismutase 2,0.8
+58,chr6,160396527,IGF2R,1.179381301,Parkinson Disease,insulin like growth factor 2 receptor,0.6
+59,chr6,160398798,IGF2R,1.149575581,Parkinson Disease,insulin like growth factor 2 receptor,0.6
+60,chr6,160400147,IGF2R,1.161438273,Parkinson Disease,insulin like growth factor 2 receptor,0.6
+61,chr12,9258821,A2M,1.10665739,Parkinson Disease,alpha-2-macroglobulin,0.65
+62,chr12,9261245,A2M,1.820863566,Parkinson Disease,alpha-2-macroglobulin,0.65
+63,chr12,40686845,LRRK2,1.383770186,Parkinson Disease,leucine rich repeat kinase 2,1
+64,chr12,40686845,LRRK2,1.383770186,Young onset Parkinson disease,leucine rich repeat kinase 2,0.7
+65,chr12,40690061,LRRK2,1.344615791,Parkinson Disease,leucine rich repeat kinase 2,1
+66,chr12,40690061,LRRK2,1.344615791,Young onset Parkinson disease,leucine rich repeat kinase 2,0.7
+67,chr12,40707201,LRRK2,1.221256161,Parkinson Disease,leucine rich repeat kinase 2,1
+68,chr12,40707201,LRRK2,1.221256161,Young onset Parkinson disease,leucine rich repeat kinase 2,0.7
+69,chr12,40709185,LRRK2,1.471302149,Parkinson Disease,leucine rich repeat kinase 2,1
+70,chr12,40709185,LRRK2,1.471302149,Young onset Parkinson disease,leucine rich repeat kinase 2,0.7
+71,chr12,40713873,LRRK2,1.718239057,Parkinson Disease,leucine rich repeat kinase 2,1
+72,chr12,40713873,LRRK2,1.718239057,Young onset Parkinson disease,leucine rich repeat kinase 2,0.7
+73,chr12,40756248,LRRK2,1.381638958,Parkinson Disease,leucine rich repeat kinase 2,1
+74,chr12,40756248,LRRK2,1.381638958,Young onset Parkinson disease,leucine rich repeat kinase 2,0.7
+75,chr12,40759980,LRRK2,1.598173575,Parkinson Disease,leucine rich repeat kinase 2,1
+76,chr12,40759980,LRRK2,1.598173575,Young onset Parkinson disease,leucine rich repeat kinase 2,0.7
+77,chr15,99263801,IGF1R,1.493603965,Parkinson Disease,insulin like growth factor 1 receptor,0.55
+78,chr15,99271685,IGF1R,1.376190564,Parkinson Disease,insulin like growth factor 1 receptor,0.55
+79,chr15,99276293,IGF1R,1.387213843,Parkinson Disease,insulin like growth factor 1 receptor,0.55
+80,chr15,99280254,IGF1R,1.049190164,Parkinson Disease,insulin like growth factor 1 receptor,0.55
+81,chr15,99281289,IGF1R,1.118450737,Parkinson Disease,insulin like growth factor 1 receptor,0.55
+82,chr15,99282558,IGF1R,1.165127537,Parkinson Disease,insulin like growth factor 1 receptor,0.55
+83,chr22,22162126,MAPK1,1.271142133,Parkinson Disease,mitogen-activated protein kinase 1,0.8
+84,chr22,22221167,MAPK1,1.133483493,Parkinson Disease,mitogen-activated protein kinase 1,0.8
+85,chr1,8021778,PARK7,1.831517576,Parkinson Disease,Parkinsonism associated deglycase,1
+86,chr1,8021778,PARK7,1.831517576,Young onset Parkinson disease,Parkinsonism associated deglycase,0.85
+87,chr1,8021778,PARK7,1.831517576,Juvenile Parkinson's disease,Parkinsonism associated deglycase,0.4
+88,chr2,37328097,EIF2AK2,1.217993023,Parkinson Disease,eukaryotic translation initiation factor 2 alpha kinase 2,0.65
+89,chr2,233562197,GIGYF2,1.000651256,Parkinson Disease,GRB10 interacting GYF protein 2,0.75
+90,chr4,39302029,RFC1,1.363420304,Parkinson Disease,replication factor C subunit 1,0.6
+91,chr5,74656539,HMGCR,1.222491871,Parkinson Disease,3-hydroxy-3-methylglutaryl-CoA reductase,0.65
+92,chr6,32549607,HLA-DRB1,1.392625167,Parkinson Disease,"major histocompatibility complex, class II, DR beta 1",0.75
+93,chr6,32553542,HLA-DRB1,2.452131013,Parkinson Disease,"major histocompatibility complex, class II, DR beta 1",0.75
+94,chr6,32553590,HLA-DRB1,1.222328617,Parkinson Disease,"major histocompatibility complex, class II, DR beta 1",0.75
+95,chr6,32554420,HLA-DRB1,1.46585355,Parkinson Disease,"major histocompatibility complex, class II, DR beta 1",0.75
+96,chr6,32557292,HLA-DRB1,1.370096425,Parkinson Disease,"major histocompatibility complex, class II, DR beta 1",0.75
+97,chr6,32557310,HLA-DRB1,1.115991683,Parkinson Disease,"major histocompatibility complex, class II, DR beta 1",0.75
+98,chr6,137110188,MAP3K5,1.530062945,Parkinson Disease,mitogen-activated protein kinase kinase kinase 5,0.65
+99,chr6,160110454,SOD2,1.409974995,Parkinson Disease,superoxide dismutase 2,0.8
+100,chr6,160112496,SOD2,1.236762102,Parkinson Disease,superoxide dismutase 2,0.8
+101,chr6,160392580,IGF2R,1.465104816,Parkinson Disease,insulin like growth factor 2 receptor,0.6
+102,chr6,160393177,IGF2R,1.438209908,Parkinson Disease,insulin like growth factor 2 receptor,0.6
+103,chr6,160398036,IGF2R,1.261859658,Parkinson Disease,insulin like growth factor 2 receptor,0.6
+104,chr12,9235217,A2M,2.000263553,Parkinson Disease,alpha-2-macroglobulin,0.65
+105,chr12,9238902,A2M,1.988868207,Parkinson Disease,alpha-2-macroglobulin,0.65
+106,chr12,9250459,A2M,1.736637576,Parkinson Disease,alpha-2-macroglobulin,0.65
+107,chr12,9250601,A2M,1.509694001,Parkinson Disease,alpha-2-macroglobulin,0.65
+108,chr12,9250883,A2M,1.467000707,Parkinson Disease,alpha-2-macroglobulin,0.65
+109,chr12,9256219,A2M,1.665835479,Parkinson Disease,alpha-2-macroglobulin,0.65
+110,chr12,9260280,A2M,1.957789614,Parkinson Disease,alpha-2-macroglobulin,0.65
+111,chr12,40631791,LRRK2,1.59831633,Parkinson Disease,leucine rich repeat kinase 2,1
+112,chr12,40631791,LRRK2,1.59831633,Young onset Parkinson disease,leucine rich repeat kinase 2,0.7
+113,chr12,40652520,LRRK2,1.164851186,Parkinson Disease,leucine rich repeat kinase 2,1
+114,chr12,40652520,LRRK2,1.164851186,Young onset Parkinson disease,leucine rich repeat kinase 2,0.7
+115,chr12,40688695,LRRK2,1.466453869,Parkinson Disease,leucine rich repeat kinase 2,1
+116,chr12,40688695,LRRK2,1.466453869,Young onset Parkinson disease,leucine rich repeat kinase 2,0.7
+117,chr12,40706604,LRRK2,1.523266293,Parkinson Disease,leucine rich repeat kinase 2,1
+118,chr12,40706604,LRRK2,1.523266293,Young onset Parkinson disease,leucine rich repeat kinase 2,0.7
+119,chr12,40708892,LRRK2,1.168719271,Parkinson Disease,leucine rich repeat kinase 2,1
+120,chr12,40708892,LRRK2,1.168719271,Young onset Parkinson disease,leucine rich repeat kinase 2,0.7
+121,chr12,40713595,LRRK2,1.892863745,Parkinson Disease,leucine rich repeat kinase 2,1
+122,chr12,40713595,LRRK2,1.892863745,Young onset Parkinson disease,leucine rich repeat kinase 2,0.7
+123,chr12,40713759,LRRK2,1.308227607,Parkinson Disease,leucine rich repeat kinase 2,1
+124,chr12,40713759,LRRK2,1.308227607,Young onset Parkinson disease,leucine rich repeat kinase 2,0.7
+125,chr12,40715248,LRRK2,1.207793853,Parkinson Disease,leucine rich repeat kinase 2,1
+126,chr12,40715248,LRRK2,1.207793853,Young onset Parkinson disease,leucine rich repeat kinase 2,0.7
+127,chr12,40737832,LRRK2,1.343835278,Parkinson Disease,leucine rich repeat kinase 2,1
+128,chr12,40737832,LRRK2,1.343835278,Young onset Parkinson disease,leucine rich repeat kinase 2,0.7
+129,chr12,40745838,LRRK2,1.007759269,Parkinson Disease,leucine rich repeat kinase 2,1
+130,chr12,40745838,LRRK2,1.007759269,Young onset Parkinson disease,leucine rich repeat kinase 2,0.7
+131,chr12,40758652,LRRK2,1.309041427,Parkinson Disease,leucine rich repeat kinase 2,1
+132,chr12,40758652,LRRK2,1.309041427,Young onset Parkinson disease,leucine rich repeat kinase 2,0.7
+133,chr12,40762546,LRRK2,1.672886402,Parkinson Disease,leucine rich repeat kinase 2,1
+134,chr12,40762546,LRRK2,1.672886402,Young onset Parkinson disease,leucine rich repeat kinase 2,0.7
+135,chr15,99263274,IGF1R,1.582516821,Parkinson Disease,insulin like growth factor 1 receptor,0.55
+136,chr15,99273032,IGF1R,1.033107473,Parkinson Disease,insulin like growth factor 1 receptor,0.55
+137,chr15,99287375,IGF1R,1.529482944,Parkinson Disease,insulin like growth factor 1 receptor,0.55
+138,chr15,99297665,IGF1R,1.556171337,Parkinson Disease,insulin like growth factor 1 receptor,0.55
+139,chr15,99309311,IGF1R,1.358542717,Parkinson Disease,insulin like growth factor 1 receptor,0.55
+140,chr6,160112638,SOD2,1.598508878,Parkinson Disease,superoxide dismutase 2,0.8
+141,chr6,160405089,IGF2R,1.338068189,Parkinson Disease,insulin like growth factor 2 receptor,0.6
+142,chr6,160456020,IGF2R,1.187377317,Parkinson Disease,insulin like growth factor 2 receptor,0.6
+143,chr12,9222902,A2M,1.294407787,Parkinson Disease,alpha-2-macroglobulin,0.65
+144,chr12,9228031,A2M,1.512299342,Parkinson Disease,alpha-2-macroglobulin,0.65
+145,chr12,9228823,A2M,1.614490363,Parkinson Disease,alpha-2-macroglobulin,0.65
+146,chr12,9235045,A2M,1.31374911,Parkinson Disease,alpha-2-macroglobulin,0.65
+147,chr12,40736010,LRRK2,1.767357868,Parkinson Disease,leucine rich repeat kinase 2,1
+148,chr12,40736010,LRRK2,1.767357868,Young onset Parkinson disease,leucine rich repeat kinase 2,0.7
+149,chr12,40761358,LRRK2,1.493138682,Parkinson Disease,leucine rich repeat kinase 2,1
+150,chr12,40761358,LRRK2,1.493138682,Young onset Parkinson disease,leucine rich repeat kinase 2,0.7
+151,chr5,137902339,HSPA9,1.282203295,Parkinson Disease,heat shock protein family A (Hsp70) member 9,0.85
+152,chr12,9223635,A2M,1.57687983,Parkinson Disease,alpha-2-macroglobulin,0.65
+153,chr12,9228298,A2M,1.511464955,Parkinson Disease,alpha-2-macroglobulin,0.65
+154,chr12,9231638,A2M,1.413317618,Parkinson Disease,alpha-2-macroglobulin,0.65
+155,chr12,9232268,A2M,1.492427814,Parkinson Disease,alpha-2-macroglobulin,0.65
+156,chr12,9268585,A2M,1.603197908,Parkinson Disease,alpha-2-macroglobulin,0.65
+157,chr12,40658255,LRRK2,1.559083648,Parkinson Disease,leucine rich repeat kinase 2,1
+158,chr12,40658255,LRRK2,1.559083648,Young onset Parkinson disease,leucine rich repeat kinase 2,0.7
+159,chr12,40716260,LRRK2,1.43749115,Parkinson Disease,leucine rich repeat kinase 2,1
+160,chr12,40716260,LRRK2,1.43749115,Young onset Parkinson disease,leucine rich repeat kinase 2,0.7
+161,chr12,40735764,LRRK2,1.648337362,Parkinson Disease,leucine rich repeat kinase 2,1
+162,chr12,40735764,LRRK2,1.648337362,Young onset Parkinson disease,leucine rich repeat kinase 2,0.7
+163,chr15,62157151,VPS13C,1.769315416,Parkinson Disease,vacuolar protein sorting 13 homolog C,0.8
+164,chr15,62157151,VPS13C,1.769315416,Young onset Parkinson disease,vacuolar protein sorting 13 homolog C,0.7
+165,chr15,62157151,VPS13C,1.769315416,Idiopathic Parkinsonism or Parkinson's disease,vacuolar protein sorting 13 homolog C,0.45
+166,chr15,62157151,VPS13C,1.769315416,Primary Parkinsonism or Parkinson's disease,vacuolar protein sorting 13 homolog C,0.45
+167,chr11,108168863,ATM,1.297494995,Parkinson Disease,ATM serine/threonine kinase,0.7
+168,chr12,40639561,LRRK2,1.054411741,Parkinson Disease,leucine rich repeat kinase 2,1
+169,chr12,40639561,LRRK2,1.054411741,Young onset Parkinson disease,leucine rich repeat kinase 2,0.7
+170,chr12,40641692,LRRK2,1.397547616,Parkinson Disease,leucine rich repeat kinase 2,1
+171,chr12,40641692,LRRK2,1.397547616,Young onset Parkinson disease,leucine rich repeat kinase 2,0.7
+172,chr12,40698686,LRRK2,1.012627895,Parkinson Disease,leucine rich repeat kinase 2,1
+173,chr12,40698686,LRRK2,1.012627895,Young onset Parkinson disease,leucine rich repeat kinase 2,0.7
+174,chr12,40716694,LRRK2,1.150217263,Parkinson Disease,leucine rich repeat kinase 2,1
+175,chr12,40716694,LRRK2,1.150217263,Young onset Parkinson disease,leucine rich repeat kinase 2,0.7
+176,chr12,40737803,LRRK2,1.384703048,Parkinson Disease,leucine rich repeat kinase 2,1
+177,chr12,40737803,LRRK2,1.384703048,Young onset Parkinson disease,leucine rich repeat kinase 2,0.7
+178,chr12,40741821,LRRK2,1.241847641,Parkinson Disease,leucine rich repeat kinase 2,1
+179,chr12,40741821,LRRK2,1.241847641,Young onset Parkinson disease,leucine rich repeat kinase 2,0.7
+180,chr12,40748547,LRRK2,1.156329432,Parkinson Disease,leucine rich repeat kinase 2,1
+181,chr12,40748547,LRRK2,1.156329432,Young onset Parkinson disease,leucine rich repeat kinase 2,0.7
+182,chr12,40754412,LRRK2,1.04201447,Parkinson Disease,leucine rich repeat kinase 2,1
+183,chr12,40754412,LRRK2,1.04201447,Young onset Parkinson disease,leucine rich repeat kinase 2,0.7
+184,chr15,62155282,VPS13C,1.594182652,Parkinson Disease,vacuolar protein sorting 13 homolog C,0.8
+185,chr15,62155282,VPS13C,1.594182652,Young onset Parkinson disease,vacuolar protein sorting 13 homolog C,0.7
+186,chr15,62155282,VPS13C,1.594182652,Idiopathic Parkinsonism or Parkinson's disease,vacuolar protein sorting 13 homolog C,0.45
+187,chr15,62155282,VPS13C,1.594182652,Primary Parkinsonism or Parkinson's disease,vacuolar protein sorting 13 homolog C,0.45
+188,chr4,185550089,CASP3,1.265957445,Parkinson Disease,caspase 3,0.75
+189,chr6,160394247,IGF2R,1.205097901,Parkinson Disease,insulin like growth factor 2 receptor,0.6
+190,chr6,160394730,IGF2R,1.242075321,Parkinson Disease,insulin like growth factor 2 receptor,0.6
+191,chr6,160405399,IGF2R,1.397636245,Parkinson Disease,insulin like growth factor 2 receptor,0.6
+192,chr6,160416104,IGF2R,1.160720872,Parkinson Disease,insulin like growth factor 2 receptor,0.6
+193,chr6,160416275,IGF2R,1.386934313,Parkinson Disease,insulin like growth factor 2 receptor,0.6
+194,chr6,160495607,IGF2R,1.449951514,Parkinson Disease,insulin like growth factor 2 receptor,0.6
+195,chr8,6793581,DEFA4,1.299139964,Parkinson Disease,defensin alpha 4,0.5
+196,chr12,9228255,A2M,1.399088502,Parkinson Disease,alpha-2-macroglobulin,0.65
+197,chr12,9228434,A2M,1.397118039,Parkinson Disease,alpha-2-macroglobulin,0.65
+198,chr12,9228644,A2M,1.394860232,Parkinson Disease,alpha-2-macroglobulin,0.65
+199,chr12,40634158,LRRK2,1.532908991,Parkinson Disease,leucine rich repeat kinase 2,1
+200,chr12,40634158,LRRK2,1.532908991,Young onset Parkinson disease,leucine rich repeat kinase 2,0.7
+201,chr12,40644305,LRRK2,1.1080329,Parkinson Disease,leucine rich repeat kinase 2,1
+202,chr12,40644305,LRRK2,1.1080329,Young onset Parkinson disease,leucine rich repeat kinase 2,0.7
+203,chr12,40732394,LRRK2,1.237968182,Parkinson Disease,leucine rich repeat kinase 2,1
+204,chr12,40732394,LRRK2,1.237968182,Young onset Parkinson disease,leucine rich repeat kinase 2,0.7
+205,chr12,40734583,LRRK2,1.448755317,Parkinson Disease,leucine rich repeat kinase 2,1
+206,chr12,40734583,LRRK2,1.448755317,Young onset Parkinson disease,leucine rich repeat kinase 2,0.7
+207,chr15,62145214,VPS13C,1.821209976,Parkinson Disease,vacuolar protein sorting 13 homolog C,0.8
+208,chr15,62145214,VPS13C,1.821209976,Young onset Parkinson disease,vacuolar protein sorting 13 homolog C,0.7
+209,chr15,62145214,VPS13C,1.821209976,Idiopathic Parkinsonism or Parkinson's disease,vacuolar protein sorting 13 homolog C,0.45
+210,chr15,62145214,VPS13C,1.821209976,Primary Parkinsonism or Parkinson's disease,vacuolar protein sorting 13 homolog C,0.45
+211,chr21,34059352,SYNJ1,1.668101025,Parkinson Disease,synaptojanin 1,0.9
+212,chr21,34059352,SYNJ1,1.668101025,Young onset Parkinson disease,synaptojanin 1,0.7
+213,chr6,32546783,HLA-DRB1,1.03369008,Parkinson Disease,"major histocompatibility complex, class II, DR beta 1",0.75
+214,chr6,32549464,HLA-DRB1,1.064424316,Parkinson Disease,"major histocompatibility complex, class II, DR beta 1",0.75
+215,chr6,160168161,SOD2,1.208603566,Parkinson Disease,superoxide dismutase 2,0.8
+216,chr6,160396355,IGF2R,1.199978847,Parkinson Disease,insulin like growth factor 2 receptor,0.6
+217,chr6,160415341,IGF2R,1.010244477,Parkinson Disease,insulin like growth factor 2 receptor,0.6
+218,chr6,160416040,IGF2R,1.589608313,Parkinson Disease,insulin like growth factor 2 receptor,0.6
+219,chr2,208467997,CREB1,1.47035116,Parkinson Disease,cAMP responsive element binding protein 1,0.7
+220,chr3,195590875,TNK2,1.023070054,Parkinson Disease,tyrosine kinase non receptor 2,0.65
+221,chr5,96107005,CAST,1.294507773,Parkinson Disease,calpastatin,0.7
+222,chr5,96114150,CAST,1.260715374,Parkinson Disease,calpastatin,0.7
+223,chr14,104025893,BAG5,1.158929056,Parkinson Disease,BAG cochaperone 5,0.65
+224,chr2,37327662,EIF2AK2,1.933162248,Parkinson Disease,eukaryotic translation initiation factor 2 alpha kinase 2,0.65
+225,chr2,37328034,EIF2AK2,1.481295021,Parkinson Disease,eukaryotic translation initiation factor 2 alpha kinase 2,0.65
+226,chr4,185570553,CASP3,1.257993832,Parkinson Disease,caspase 3,0.75
+227,chr5,96108701,CAST,1.047818693,Parkinson Disease,calpastatin,0.7
+228,chr5,96109205,CAST,1.101926045,Parkinson Disease,calpastatin,0.7
+229,chr6,160104838,SOD2,1.387344196,Parkinson Disease,superoxide dismutase 2,0.8
+230,chr12,9238579,A2M,1.296212005,Parkinson Disease,alpha-2-macroglobulin,0.65
+231,chr12,40757533,LRRK2,1.022520266,Parkinson Disease,leucine rich repeat kinase 2,1
+232,chr12,40757533,LRRK2,1.022520266,Young onset Parkinson disease,leucine rich repeat kinase 2,0.7
+233,chr2,233708806,GIGYF2,1.458193803,Parkinson Disease,GRB10 interacting GYF protein 2,0.75
+234,chr5,96107801,CAST,1.02823983,Parkinson Disease,calpastatin,0.7
+235,chr6,32548581,HLA-DRB1,1.322634448,Parkinson Disease,"major histocompatibility complex, class II, DR beta 1",0.75
+236,chr6,32557207,HLA-DRB1,1.260640291,Parkinson Disease,"major histocompatibility complex, class II, DR beta 1",0.75
+237,chr6,32557240,HLA-DRB1,1.623413274,Parkinson Disease,"major histocompatibility complex, class II, DR beta 1",0.75
+238,chr6,137112633,MAP3K5,1.400764659,Parkinson Disease,mitogen-activated protein kinase kinase kinase 5,0.65
+239,chr6,160100302,SOD2,1.039947294,Parkinson Disease,superoxide dismutase 2,0.8
+240,chr12,9249753,A2M,1.484285556,Parkinson Disease,alpha-2-macroglobulin,0.65
+241,chr12,9259907,A2M,1.481311585,Parkinson Disease,alpha-2-macroglobulin,0.65
+242,chr12,40756687,LRRK2,1.348990913,Parkinson Disease,leucine rich repeat kinase 2,1
+243,chr12,40756687,LRRK2,1.348990913,Young onset Parkinson disease,leucine rich repeat kinase 2,0.7
+244,chr6,32546032,HLA-DRB1,1.220816836,Parkinson Disease,"major histocompatibility complex, class II, DR beta 1",0.75
+245,chr6,32552080,HLA-DRB1,1.060110319,Parkinson Disease,"major histocompatibility complex, class II, DR beta 1",0.75
+246,chr6,160110160,SOD2,1.177503671,Parkinson Disease,superoxide dismutase 2,0.8
+247,chr6,160404832,IGF2R,1.137588927,Parkinson Disease,insulin like growth factor 2 receptor,0.6
+248,chr11,67352689,GSTP1,1.189910321,Parkinson Disease,glutathione S-transferase pi 1,0.85
+249,chr11,67353970,GSTP1,1.669935943,Parkinson Disease,glutathione S-transferase pi 1,0.85
+250,chr12,40656179,LRRK2,1.086400863,Parkinson Disease,leucine rich repeat kinase 2,1
+251,chr12,40656179,LRRK2,1.086400863,Young onset Parkinson disease,leucine rich repeat kinase 2,0.7
+252,chr12,40686731,LRRK2,1.306845795,Parkinson Disease,leucine rich repeat kinase 2,1
+253,chr12,40686731,LRRK2,1.306845795,Young onset Parkinson disease,leucine rich repeat kinase 2,0.7
+254,chr12,40688081,LRRK2,1.33815524,Parkinson Disease,leucine rich repeat kinase 2,1
+255,chr12,40688081,LRRK2,1.33815524,Young onset Parkinson disease,leucine rich repeat kinase 2,0.7
+256,chr12,40703865,LRRK2,1.271846943,Parkinson Disease,leucine rich repeat kinase 2,1
+257,chr12,40703865,LRRK2,1.271846943,Young onset Parkinson disease,leucine rich repeat kinase 2,0.7
+258,chr12,40761007,LRRK2,1.239221797,Parkinson Disease,leucine rich repeat kinase 2,1
+259,chr12,40761007,LRRK2,1.239221797,Young onset Parkinson disease,leucine rich repeat kinase 2,0.7
+260,chr6,3015790,NQO2,1.028720112,Parkinson Disease,N-ribosyldihydronicotinamide:quinone dehydrogenase 2,0.7
+261,chr6,160499736,IGF2R,1.429828356,Parkinson Disease,insulin like growth factor 2 receptor,0.6
+262,chr12,40644279,LRRK2,1.444179633,Parkinson Disease,leucine rich repeat kinase 2,1
+263,chr12,40644279,LRRK2,1.444179633,Young onset Parkinson disease,leucine rich repeat kinase 2,0.7
+264,chr12,9223447,A2M,1.123712385,Parkinson Disease,alpha-2-macroglobulin,0.65
+265,chr12,40722452,LRRK2,1.475967724,Parkinson Disease,leucine rich repeat kinase 2,1
+266,chr12,40722452,LRRK2,1.475967724,Young onset Parkinson disease,leucine rich repeat kinase 2,0.7
+267,chr15,99286980,IGF1R,1.098985292,Parkinson Disease,insulin like growth factor 1 receptor,0.55
+268,chr22,22111308,MAPK1,1.031829176,Parkinson Disease,mitogen-activated protein kinase 1,0.8
+269,chr6,32554675,HLA-DRB1,1.345872396,Parkinson Disease,"major histocompatibility complex, class II, DR beta 1",0.75
+270,chr6,160447988,IGF2R,1.166473089,Parkinson Disease,insulin like growth factor 2 receptor,0.6
+271,chr6,160478789,IGF2R,1.481221668,Parkinson Disease,insulin like growth factor 2 receptor,0.6
+272,chr6,160486083,IGF2R,1.330261855,Parkinson Disease,insulin like growth factor 2 receptor,0.6
+273,chr6,160531443,IGF2R,1.26321068,Parkinson Disease,insulin like growth factor 2 receptor,0.6
+274,chr6,160531775,IGF2R,1.253549716,Parkinson Disease,insulin like growth factor 2 receptor,0.6
+275,chr15,62151079,VPS13C,1.217532614,Parkinson Disease,vacuolar protein sorting 13 homolog C,0.8
+276,chr15,62151079,VPS13C,1.217532614,Young onset Parkinson disease,vacuolar protein sorting 13 homolog C,0.7
+277,chr15,62151079,VPS13C,1.217532614,Idiopathic Parkinsonism or Parkinson's disease,vacuolar protein sorting 13 homolog C,0.45
+278,chr15,62151079,VPS13C,1.217532614,Primary Parkinsonism or Parkinson's disease,vacuolar protein sorting 13 homolog C,0.45
+279,chr6,32555987,HLA-DRB1,1.195428705,Parkinson Disease,"major histocompatibility complex, class II, DR beta 1",0.75
+280,chr6,160530626,IGF2R,1.516129671,Parkinson Disease,insulin like growth factor 2 receptor,0.6
+281,chr1,11082792,TARDBP,1.398147578,Parkinson Disease,TAR DNA binding protein,0.9
+282,chr1,65831827,DNAJC6,1.393552866,Parkinson Disease,DnaJ heat shock protein family (Hsp40) member C6,0.85
+283,chr1,65831827,DNAJC6,1.393552866,Young onset Parkinson disease,DnaJ heat shock protein family (Hsp40) member C6,0.65
+284,chr1,65831827,DNAJC6,1.393552866,Idiopathic Parkinsonism or Parkinson's disease,DnaJ heat shock protein family (Hsp40) member C6,0.45
+285,chr1,65831827,DNAJC6,1.393552866,Primary Parkinsonism or Parkinson's disease,DnaJ heat shock protein family (Hsp40) member C6,0.45
+286,chr1,226548862,PARP1,1.960575372,Parkinson Disease,poly(ADP-ribose) polymerase 1,0.8
+287,chr1,226568845,PARP1,1.39310123,Parkinson Disease,poly(ADP-ribose) polymerase 1,0.8
+288,chr10,60144884,TFAM,1.029225915,Parkinson Disease,"transcription factor A, mitochondrial",0.9
+289,chr10,60156166,TFAM,1.256212165,Parkinson Disease,"transcription factor A, mitochondrial",0.9
+290,chr10,60157391,TFAM,1.375513749,Parkinson Disease,"transcription factor A, mitochondrial",0.9
+291,chr10,60157611,TFAM,1.092960561,Parkinson Disease,"transcription factor A, mitochondrial",0.9
+292,chr10,60158446,TFAM,1.196419095,Parkinson Disease,"transcription factor A, mitochondrial",0.9
+293,chr10,74034721,DDIT4,1.393087977,Parkinson Disease,DNA damage inducible transcript 4,0.65
+294,chr10,106019623,GSTO1,1.34107947,Parkinson Disease,glutathione S-transferase omega 1,0.7
+296,chr10,119038528,SLC18A2,1.362329974,Parkinson Disease,solute carrier family 18 member A2,0.95
+297,chr10,119039865,SLC18A2,1.343709625,Parkinson Disease,solute carrier family 18 member A2,0.95
+299,chr11,108107923,ATM,1.389450511,Parkinson Disease,ATM serine/threonine kinase,0.7
+300,chr11,108113824,ATM,1.135570569,Parkinson Disease,ATM serine/threonine kinase,0.7
+301,chr11,108131462,ATM,1.381962605,Parkinson Disease,ATM serine/threonine kinase,0.7
+302,chr11,108145925,ATM,1.387491942,Parkinson Disease,ATM serine/threonine kinase,0.7
+303,chr11,108155424,ATM,1.39433555,Parkinson Disease,ATM serine/threonine kinase,0.7
+304,chr11,108156048,ATM,1.702918669,Parkinson Disease,ATM serine/threonine kinase,0.7
+305,chr11,108156108,ATM,1.395374556,Parkinson Disease,ATM serine/threonine kinase,0.7
+306,chr11,108157039,ATM,1.968672195,Parkinson Disease,ATM serine/threonine kinase,0.7
+307,chr11,108157079,ATM,2.168008545,Parkinson Disease,ATM serine/threonine kinase,0.7
+308,chr11,108169731,ATM,1.385742568,Parkinson Disease,ATM serine/threonine kinase,0.7
+309,chr11,108190899,ATM,1.342341848,Parkinson Disease,ATM serine/threonine kinase,0.7
+310,chr11,108192268,ATM,1.224425906,Parkinson Disease,ATM serine/threonine kinase,0.7
+311,chr11,108192403,ATM,1.114959442,Parkinson Disease,ATM serine/threonine kinase,0.7
+312,chr11,108197394,ATM,1.376390762,Parkinson Disease,ATM serine/threonine kinase,0.7
+313,chr11,108213792,ATM,1.366096266,Parkinson Disease,ATM serine/threonine kinase,0.7
+314,chr11,108229119,ATM,1.503465594,Parkinson Disease,ATM serine/threonine kinase,0.7
+315,chr11,108236776,ATM,1.393813808,Parkinson Disease,ATM serine/threonine kinase,0.7
+316,chr11,108239015,ATM,1.392357116,Parkinson Disease,ATM serine/threonine kinase,0.7
+317,chr11,122928295,HSPA8,2.191819189,Parkinson Disease,heat shock protein family A (Hsp70) member 8,0.8
+318,chr11,122928953,HSPA8,1.553711575,Parkinson Disease,heat shock protein family A (Hsp70) member 8,0.8
+319,chr11,122928955,HSPA8,1.284378338,Parkinson Disease,heat shock protein family A (Hsp70) member 8,0.8
+320,chr12,7032253,ENO2,1.010739038,Parkinson Disease,enolase 2,0.65
+321,chr12,7032336,ENO2,1.382224364,Parkinson Disease,enolase 2,0.65
+322,chr12,9233552,A2M,1.129593021,Parkinson Disease,alpha-2-macroglobulin,0.65
+323,chr12,9235427,A2M,1.236645982,Parkinson Disease,alpha-2-macroglobulin,0.65
+324,chr12,9236501,A2M,1.357928135,Parkinson Disease,alpha-2-macroglobulin,0.65
+325,chr12,9254422,A2M,1.111872042,Parkinson Disease,alpha-2-macroglobulin,0.65
+326,chr12,32855991,DNM1L,1.348401462,Parkinson Disease,dynamin 1 like,0.75
+327,chr12,32884389,DNM1L,1.392808276,Parkinson Disease,dynamin 1 like,0.75
+328,chr12,32891276,DNM1L,1.3870612,Parkinson Disease,dynamin 1 like,0.75
+329,chr12,32892678,DNM1L,1.256414645,Parkinson Disease,dynamin 1 like,0.75
+330,chr12,32897647,DNM1L,1.706567571,Parkinson Disease,dynamin 1 like,0.75
+331,chr12,40616217,LRRK2,1.930025792,Parkinson Disease,leucine rich repeat kinase 2,1
+332,chr12,40616217,LRRK2,1.930025792,Young onset Parkinson disease,leucine rich repeat kinase 2,0.7
+333,chr12,40631037,LRRK2,1.346997432,Parkinson Disease,leucine rich repeat kinase 2,1
+334,chr12,40631037,LRRK2,1.346997432,Young onset Parkinson disease,leucine rich repeat kinase 2,0.7
+335,chr12,40637027,LRRK2,1.394342211,Parkinson Disease,leucine rich repeat kinase 2,1
+336,chr12,40637027,LRRK2,1.394342211,Young onset Parkinson disease,leucine rich repeat kinase 2,0.7
+337,chr12,40638214,LRRK2,1.399443608,Parkinson Disease,leucine rich repeat kinase 2,1
+338,chr12,40638214,LRRK2,1.399443608,Young onset Parkinson disease,leucine rich repeat kinase 2,0.7
+339,chr12,40638826,LRRK2,1.968235582,Parkinson Disease,leucine rich repeat kinase 2,1
+340,chr12,40638826,LRRK2,1.968235582,Young onset Parkinson disease,leucine rich repeat kinase 2,0.7
+341,chr12,40642409,LRRK2,1.394870654,Parkinson Disease,leucine rich repeat kinase 2,1
+342,chr12,40642409,LRRK2,1.394870654,Young onset Parkinson disease,leucine rich repeat kinase 2,0.7
+343,chr12,40643172,LRRK2,1.69965471,Parkinson Disease,leucine rich repeat kinase 2,1
+344,chr12,40643172,LRRK2,1.69965471,Young onset Parkinson disease,leucine rich repeat kinase 2,0.7
+345,chr12,40645641,LRRK2,1.712536725,Parkinson Disease,leucine rich repeat kinase 2,1
+346,chr12,40645641,LRRK2,1.712536725,Young onset Parkinson disease,leucine rich repeat kinase 2,0.7
+347,chr12,40653203,LRRK2,1.392504943,Parkinson Disease,leucine rich repeat kinase 2,1
+348,chr12,40653203,LRRK2,1.392504943,Young onset Parkinson disease,leucine rich repeat kinase 2,0.7
+349,chr12,40653540,LRRK2,1.396750862,Parkinson Disease,leucine rich repeat kinase 2,1
+350,chr12,40653540,LRRK2,1.396750862,Young onset Parkinson disease,leucine rich repeat kinase 2,0.7
+351,chr12,40656033,LRRK2,1.38833396,Parkinson Disease,leucine rich repeat kinase 2,1
+352,chr12,40656033,LRRK2,1.38833396,Young onset Parkinson disease,leucine rich repeat kinase 2,0.7
+353,chr12,40657252,LRRK2,1.37660228,Parkinson Disease,leucine rich repeat kinase 2,1
+354,chr12,40657252,LRRK2,1.37660228,Young onset Parkinson disease,leucine rich repeat kinase 2,0.7
+355,chr12,40657771,LRRK2,1.20567821,Parkinson Disease,leucine rich repeat kinase 2,1
+356,chr12,40657771,LRRK2,1.20567821,Young onset Parkinson disease,leucine rich repeat kinase 2,0.7
+357,chr12,40659534,LRRK2,1.302303667,Parkinson Disease,leucine rich repeat kinase 2,1
+358,chr12,40659534,LRRK2,1.302303667,Young onset Parkinson disease,leucine rich repeat kinase 2,0.7
+359,chr12,40659706,LRRK2,1.111505421,Parkinson Disease,leucine rich repeat kinase 2,1
+360,chr12,40659706,LRRK2,1.111505421,Young onset Parkinson disease,leucine rich repeat kinase 2,0.7
+361,chr12,40660044,LRRK2,1.377327283,Parkinson Disease,leucine rich repeat kinase 2,1
+362,chr12,40660044,LRRK2,1.377327283,Young onset Parkinson disease,leucine rich repeat kinase 2,0.7
+363,chr12,40660094,LRRK2,1.17251008,Parkinson Disease,leucine rich repeat kinase 2,1
+364,chr12,40660094,LRRK2,1.17251008,Young onset Parkinson disease,leucine rich repeat kinase 2,0.7
+365,chr12,40660848,LRRK2,1.382522415,Parkinson Disease,leucine rich repeat kinase 2,1
+366,chr12,40660848,LRRK2,1.382522415,Young onset Parkinson disease,leucine rich repeat kinase 2,0.7
+367,chr12,40663918,LRRK2,1.058054922,Parkinson Disease,leucine rich repeat kinase 2,1
+368,chr12,40663918,LRRK2,1.058054922,Young onset Parkinson disease,leucine rich repeat kinase 2,0.7
+369,chr12,40664351,LRRK2,1.396022517,Parkinson Disease,leucine rich repeat kinase 2,1
+370,chr12,40664351,LRRK2,1.396022517,Young onset Parkinson disease,leucine rich repeat kinase 2,0.7
+371,chr12,40664593,LRRK2,1.394113855,Parkinson Disease,leucine rich repeat kinase 2,1
+372,chr12,40664593,LRRK2,1.394113855,Young onset Parkinson disease,leucine rich repeat kinase 2,0.7
+373,chr12,40664617,LRRK2,1.392861746,Parkinson Disease,leucine rich repeat kinase 2,1
+374,chr12,40664617,LRRK2,1.392861746,Young onset Parkinson disease,leucine rich repeat kinase 2,0.7
+375,chr12,40665621,LRRK2,1.370648018,Parkinson Disease,leucine rich repeat kinase 2,1
+376,chr12,40665621,LRRK2,1.370648018,Young onset Parkinson disease,leucine rich repeat kinase 2,0.7
+377,chr12,40666931,LRRK2,1.397604732,Parkinson Disease,leucine rich repeat kinase 2,1
+378,chr12,40666931,LRRK2,1.397604732,Young onset Parkinson disease,leucine rich repeat kinase 2,0.7
+379,chr12,40670676,LRRK2,1.065168376,Parkinson Disease,leucine rich repeat kinase 2,1
+380,chr12,40670676,LRRK2,1.065168376,Young onset Parkinson disease,leucine rich repeat kinase 2,0.7
+381,chr12,40670801,LRRK2,1.109861393,Parkinson Disease,leucine rich repeat kinase 2,1
+382,chr12,40670801,LRRK2,1.109861393,Young onset Parkinson disease,leucine rich repeat kinase 2,0.7
+383,chr12,40674966,LRRK2,1.393567017,Parkinson Disease,leucine rich repeat kinase 2,1
+384,chr12,40674966,LRRK2,1.393567017,Young onset Parkinson disease,leucine rich repeat kinase 2,0.7
+385,chr12,40675052,LRRK2,1.547806706,Parkinson Disease,leucine rich repeat kinase 2,1
+386,chr12,40675052,LRRK2,1.547806706,Young onset Parkinson disease,leucine rich repeat kinase 2,0.7
+387,chr12,40687696,LRRK2,1.375468607,Parkinson Disease,leucine rich repeat kinase 2,1
+388,chr12,40687696,LRRK2,1.375468607,Young onset Parkinson disease,leucine rich repeat kinase 2,0.7
+389,chr12,40687698,LRRK2,1.490271374,Parkinson Disease,leucine rich repeat kinase 2,1
+390,chr12,40687698,LRRK2,1.490271374,Young onset Parkinson disease,leucine rich repeat kinase 2,0.7
+391,chr12,40689588,LRRK2,1.170767044,Parkinson Disease,leucine rich repeat kinase 2,1
+392,chr12,40689588,LRRK2,1.170767044,Young onset Parkinson disease,leucine rich repeat kinase 2,0.7
+393,chr12,40691462,LRRK2,1.386015557,Parkinson Disease,leucine rich repeat kinase 2,1
+394,chr12,40691462,LRRK2,1.386015557,Young onset Parkinson disease,leucine rich repeat kinase 2,0.7
+395,chr12,40694280,LRRK2,1.383796889,Parkinson Disease,leucine rich repeat kinase 2,1
+396,chr12,40694280,LRRK2,1.383796889,Young onset Parkinson disease,leucine rich repeat kinase 2,0.7
+397,chr12,40695776,LRRK2,1.053490118,Parkinson Disease,leucine rich repeat kinase 2,1
+398,chr12,40695776,LRRK2,1.053490118,Young onset Parkinson disease,leucine rich repeat kinase 2,0.7
+399,chr12,40699578,LRRK2,2.926868439,Parkinson Disease,leucine rich repeat kinase 2,1
+400,chr12,40699578,LRRK2,2.926868439,Young onset Parkinson disease,leucine rich repeat kinase 2,0.7
+401,chr12,40708731,LRRK2,1.397174845,Parkinson Disease,leucine rich repeat kinase 2,1
+402,chr12,40708731,LRRK2,1.397174845,Young onset Parkinson disease,leucine rich repeat kinase 2,0.7
+403,chr12,40710850,LRRK2,1.39224224,Parkinson Disease,leucine rich repeat kinase 2,1
+404,chr12,40710850,LRRK2,1.39224224,Young onset Parkinson disease,leucine rich repeat kinase 2,0.7
+405,chr12,40715310,LRRK2,1.661293993,Parkinson Disease,leucine rich repeat kinase 2,1
+406,chr12,40715310,LRRK2,1.661293993,Young onset Parkinson disease,leucine rich repeat kinase 2,0.7
+407,chr12,40720302,LRRK2,1.353021714,Parkinson Disease,leucine rich repeat kinase 2,1
+408,chr12,40720302,LRRK2,1.353021714,Young onset Parkinson disease,leucine rich repeat kinase 2,0.7
+409,chr12,40725399,LRRK2,2.178982089,Parkinson Disease,leucine rich repeat kinase 2,1
+410,chr12,40725399,LRRK2,2.178982089,Young onset Parkinson disease,leucine rich repeat kinase 2,0.7
+411,chr12,40726824,LRRK2,1.970036642,Parkinson Disease,leucine rich repeat kinase 2,1
+412,chr12,40726824,LRRK2,1.970036642,Young onset Parkinson disease,leucine rich repeat kinase 2,0.7
+413,chr12,40730690,LRRK2,1.387273741,Parkinson Disease,leucine rich repeat kinase 2,1
+414,chr12,40730690,LRRK2,1.387273741,Young onset Parkinson disease,leucine rich repeat kinase 2,0.7
+415,chr12,40730783,LRRK2,1.383886768,Parkinson Disease,leucine rich repeat kinase 2,1
+416,chr12,40730783,LRRK2,1.383886768,Young onset Parkinson disease,leucine rich repeat kinase 2,0.7
+417,chr12,40732279,LRRK2,1.393376049,Parkinson Disease,leucine rich repeat kinase 2,1
+418,chr12,40732279,LRRK2,1.393376049,Young onset Parkinson disease,leucine rich repeat kinase 2,0.7
+419,chr12,40732630,LRRK2,1.394831419,Parkinson Disease,leucine rich repeat kinase 2,1
+420,chr12,40732630,LRRK2,1.394831419,Young onset Parkinson disease,leucine rich repeat kinase 2,0.7
+421,chr12,40736281,LRRK2,2.243246358,Parkinson Disease,leucine rich repeat kinase 2,1
+422,chr12,40736281,LRRK2,2.243246358,Young onset Parkinson disease,leucine rich repeat kinase 2,0.7
+423,chr12,40741240,LRRK2,1.394152851,Parkinson Disease,leucine rich repeat kinase 2,1
+424,chr12,40741240,LRRK2,1.394152851,Young onset Parkinson disease,leucine rich repeat kinase 2,0.7
+425,chr12,40741617,LRRK2,1.010056079,Parkinson Disease,leucine rich repeat kinase 2,1
+426,chr12,40741617,LRRK2,1.010056079,Young onset Parkinson disease,leucine rich repeat kinase 2,0.7
+427,chr12,40747434,LRRK2,1.043114917,Parkinson Disease,leucine rich repeat kinase 2,1
+428,chr12,40747434,LRRK2,1.043114917,Young onset Parkinson disease,leucine rich repeat kinase 2,0.7
+429,chr12,40748962,LRRK2,1.372695158,Parkinson Disease,leucine rich repeat kinase 2,1
+430,chr12,40748962,LRRK2,1.372695158,Young onset Parkinson disease,leucine rich repeat kinase 2,0.7
+431,chr12,40753789,LRRK2,2.725021563,Parkinson Disease,leucine rich repeat kinase 2,1
+432,chr12,40753789,LRRK2,2.725021563,Young onset Parkinson disease,leucine rich repeat kinase 2,0.7
+433,chr12,51398658,SLC11A2,1.390916787,Parkinson Disease,solute carrier family 11 member 2,0.8
+434,chr12,51402404,SLC11A2,1.392754021,Parkinson Disease,solute carrier family 11 member 2,0.8
+435,chr14,104023704,BAG5,1.204367707,Parkinson Disease,BAG cochaperone 5,0.65
+436,chr14,105260667,AKT1,1.376174378,Parkinson Disease,AKT serine/threonine kinase 1,0.8
+437,chr15,62146077,VPS13C,1.391598966,Parkinson Disease,vacuolar protein sorting 13 homolog C,0.8
+438,chr15,62146077,VPS13C,1.391598966,Young onset Parkinson disease,vacuolar protein sorting 13 homolog C,0.7
+439,chr15,62146077,VPS13C,1.391598966,Idiopathic Parkinsonism or Parkinson's disease,vacuolar protein sorting 13 homolog C,0.45
+440,chr15,62146077,VPS13C,1.391598966,Primary Parkinsonism or Parkinson's disease,vacuolar protein sorting 13 homolog C,0.45
+441,chr15,62146125,VPS13C,1.304565578,Parkinson Disease,vacuolar protein sorting 13 homolog C,0.8
+442,chr15,62146125,VPS13C,1.304565578,Young onset Parkinson disease,vacuolar protein sorting 13 homolog C,0.7
+443,chr15,62146125,VPS13C,1.304565578,Idiopathic Parkinsonism or Parkinson's disease,vacuolar protein sorting 13 homolog C,0.45
+444,chr15,62146125,VPS13C,1.304565578,Primary Parkinsonism or Parkinson's disease,vacuolar protein sorting 13 homolog C,0.45
+445,chr15,62146238,VPS13C,1.386105903,Parkinson Disease,vacuolar protein sorting 13 homolog C,0.8
+446,chr15,62146238,VPS13C,1.386105903,Young onset Parkinson disease,vacuolar protein sorting 13 homolog C,0.7
+447,chr15,62146238,VPS13C,1.386105903,Idiopathic Parkinsonism or Parkinson's disease,vacuolar protein sorting 13 homolog C,0.45
+448,chr15,62146238,VPS13C,1.386105903,Primary Parkinsonism or Parkinson's disease,vacuolar protein sorting 13 homolog C,0.45
+449,chr15,62146240,VPS13C,2.785605,Parkinson Disease,vacuolar protein sorting 13 homolog C,0.8
+450,chr15,62146240,VPS13C,2.785605,Young onset Parkinson disease,vacuolar protein sorting 13 homolog C,0.7
+451,chr15,62146240,VPS13C,2.785605,Idiopathic Parkinsonism or Parkinson's disease,vacuolar protein sorting 13 homolog C,0.45
+452,chr15,62146240,VPS13C,2.785605,Primary Parkinsonism or Parkinson's disease,vacuolar protein sorting 13 homolog C,0.45
+453,chr15,62150579,VPS13C,1.386852114,Parkinson Disease,vacuolar protein sorting 13 homolog C,0.8
+454,chr15,62150579,VPS13C,1.386852114,Young onset Parkinson disease,vacuolar protein sorting 13 homolog C,0.7
+455,chr15,62150579,VPS13C,1.386852114,Idiopathic Parkinsonism or Parkinson's disease,vacuolar protein sorting 13 homolog C,0.45
+456,chr15,62150579,VPS13C,1.386852114,Primary Parkinsonism or Parkinson's disease,vacuolar protein sorting 13 homolog C,0.45
+457,chr15,62153259,VPS13C,1.334059328,Parkinson Disease,vacuolar protein sorting 13 homolog C,0.8
+458,chr15,62153259,VPS13C,1.334059328,Young onset Parkinson disease,vacuolar protein sorting 13 homolog C,0.7
+459,chr15,62153259,VPS13C,1.334059328,Idiopathic Parkinsonism or Parkinson's disease,vacuolar protein sorting 13 homolog C,0.45
+460,chr15,62153259,VPS13C,1.334059328,Primary Parkinsonism or Parkinson's disease,vacuolar protein sorting 13 homolog C,0.45
+461,chr15,62153856,VPS13C,1.324885072,Parkinson Disease,vacuolar protein sorting 13 homolog C,0.8
+462,chr15,62153856,VPS13C,1.324885072,Young onset Parkinson disease,vacuolar protein sorting 13 homolog C,0.7
+463,chr15,62153856,VPS13C,1.324885072,Idiopathic Parkinsonism or Parkinson's disease,vacuolar protein sorting 13 homolog C,0.45
+464,chr15,62153856,VPS13C,1.324885072,Primary Parkinsonism or Parkinson's disease,vacuolar protein sorting 13 homolog C,0.45
+465,chr15,62154102,VPS13C,1.431627668,Parkinson Disease,vacuolar protein sorting 13 homolog C,0.8
+466,chr15,62154102,VPS13C,1.431627668,Young onset Parkinson disease,vacuolar protein sorting 13 homolog C,0.7
+467,chr15,62154102,VPS13C,1.431627668,Idiopathic Parkinsonism or Parkinson's disease,vacuolar protein sorting 13 homolog C,0.45
+468,chr15,62154102,VPS13C,1.431627668,Primary Parkinsonism or Parkinson's disease,vacuolar protein sorting 13 homolog C,0.45
+469,chr15,62154621,VPS13C,1.684812291,Parkinson Disease,vacuolar protein sorting 13 homolog C,0.8
+470,chr15,62154621,VPS13C,1.684812291,Young onset Parkinson disease,vacuolar protein sorting 13 homolog C,0.7
+471,chr15,62154621,VPS13C,1.684812291,Idiopathic Parkinsonism or Parkinson's disease,vacuolar protein sorting 13 homolog C,0.45
+472,chr15,62154621,VPS13C,1.684812291,Primary Parkinsonism or Parkinson's disease,vacuolar protein sorting 13 homolog C,0.45
+473,chr15,62156690,VPS13C,1.140372787,Parkinson Disease,vacuolar protein sorting 13 homolog C,0.8
+474,chr15,62156690,VPS13C,1.140372787,Young onset Parkinson disease,vacuolar protein sorting 13 homolog C,0.7
+475,chr15,62156690,VPS13C,1.140372787,Idiopathic Parkinsonism or Parkinson's disease,vacuolar protein sorting 13 homolog C,0.45
+476,chr15,62156690,VPS13C,1.140372787,Primary Parkinsonism or Parkinson's disease,vacuolar protein sorting 13 homolog C,0.45
+477,chr15,62157537,VPS13C,1.022723338,Parkinson Disease,vacuolar protein sorting 13 homolog C,0.8
+478,chr15,62157537,VPS13C,1.022723338,Young onset Parkinson disease,vacuolar protein sorting 13 homolog C,0.7
+479,chr15,62157537,VPS13C,1.022723338,Idiopathic Parkinsonism or Parkinson's disease,vacuolar protein sorting 13 homolog C,0.45
+480,chr15,62157537,VPS13C,1.022723338,Primary Parkinsonism or Parkinson's disease,vacuolar protein sorting 13 homolog C,0.45
+481,chr15,62160758,VPS13C,1.30698041,Parkinson Disease,vacuolar protein sorting 13 homolog C,0.8
+482,chr15,62160758,VPS13C,1.30698041,Young onset Parkinson disease,vacuolar protein sorting 13 homolog C,0.7
+483,chr15,62160758,VPS13C,1.30698041,Idiopathic Parkinsonism or Parkinson's disease,vacuolar protein sorting 13 homolog C,0.45
+484,chr15,62160758,VPS13C,1.30698041,Primary Parkinsonism or Parkinson's disease,vacuolar protein sorting 13 homolog C,0.45
+485,chr15,62172429,VPS13C,1.120606438,Parkinson Disease,vacuolar protein sorting 13 homolog C,0.8
+486,chr15,62172429,VPS13C,1.120606438,Young onset Parkinson disease,vacuolar protein sorting 13 homolog C,0.7
+487,chr15,62172429,VPS13C,1.120606438,Idiopathic Parkinsonism or Parkinson's disease,vacuolar protein sorting 13 homolog C,0.45
+488,chr15,62172429,VPS13C,1.120606438,Primary Parkinsonism or Parkinson's disease,vacuolar protein sorting 13 homolog C,0.45
+489,chr15,62191927,VPS13C,1.409856272,Parkinson Disease,vacuolar protein sorting 13 homolog C,0.8
+490,chr15,62191927,VPS13C,1.409856272,Young onset Parkinson disease,vacuolar protein sorting 13 homolog C,0.7
+491,chr15,62191927,VPS13C,1.409856272,Idiopathic Parkinsonism or Parkinson's disease,vacuolar protein sorting 13 homolog C,0.45
+492,chr15,62191927,VPS13C,1.409856272,Primary Parkinsonism or Parkinson's disease,vacuolar protein sorting 13 homolog C,0.45
+493,chr15,62196263,VPS13C,1.210384234,Parkinson Disease,vacuolar protein sorting 13 homolog C,0.8
+494,chr15,62196263,VPS13C,1.210384234,Young onset Parkinson disease,vacuolar protein sorting 13 homolog C,0.7
+495,chr15,62196263,VPS13C,1.210384234,Idiopathic Parkinsonism or Parkinson's disease,vacuolar protein sorting 13 homolog C,0.45
+496,chr15,62196263,VPS13C,1.210384234,Primary Parkinsonism or Parkinson's disease,vacuolar protein sorting 13 homolog C,0.45
+497,chr15,62198564,VPS13C,1.215561197,Parkinson Disease,vacuolar protein sorting 13 homolog C,0.8
+498,chr15,62198564,VPS13C,1.215561197,Young onset Parkinson disease,vacuolar protein sorting 13 homolog C,0.7
+499,chr15,62198564,VPS13C,1.215561197,Idiopathic Parkinsonism or Parkinson's disease,vacuolar protein sorting 13 homolog C,0.45
+500,chr15,62198564,VPS13C,1.215561197,Primary Parkinsonism or Parkinson's disease,vacuolar protein sorting 13 homolog C,0.45
+501,chr15,62202482,VPS13C,1.178016226,Parkinson Disease,vacuolar protein sorting 13 homolog C,0.8
+502,chr15,62202482,VPS13C,1.178016226,Young onset Parkinson disease,vacuolar protein sorting 13 homolog C,0.7
+503,chr15,62202482,VPS13C,1.178016226,Idiopathic Parkinsonism or Parkinson's disease,vacuolar protein sorting 13 homolog C,0.45
+504,chr15,62202482,VPS13C,1.178016226,Primary Parkinsonism or Parkinson's disease,vacuolar protein sorting 13 homolog C,0.45
+505,chr15,62238348,VPS13C,1.041592488,Parkinson Disease,vacuolar protein sorting 13 homolog C,0.8
+506,chr15,62238348,VPS13C,1.041592488,Young onset Parkinson disease,vacuolar protein sorting 13 homolog C,0.7
+507,chr15,62238348,VPS13C,1.041592488,Idiopathic Parkinsonism or Parkinson's disease,vacuolar protein sorting 13 homolog C,0.45
+508,chr15,62238348,VPS13C,1.041592488,Primary Parkinsonism or Parkinson's disease,vacuolar protein sorting 13 homolog C,0.45
+509,chr15,62247217,VPS13C,1.06595644,Parkinson Disease,vacuolar protein sorting 13 homolog C,0.8
+510,chr15,62247217,VPS13C,1.06595644,Young onset Parkinson disease,vacuolar protein sorting 13 homolog C,0.7
+511,chr15,62247217,VPS13C,1.06595644,Idiopathic Parkinsonism or Parkinson's disease,vacuolar protein sorting 13 homolog C,0.45
+512,chr15,62247217,VPS13C,1.06595644,Primary Parkinsonism or Parkinson's disease,vacuolar protein sorting 13 homolog C,0.45
+513,chr15,62275607,VPS13C,1.351450539,Parkinson Disease,vacuolar protein sorting 13 homolog C,0.8
+514,chr15,62275607,VPS13C,1.351450539,Young onset Parkinson disease,vacuolar protein sorting 13 homolog C,0.7
+515,chr15,62275607,VPS13C,1.351450539,Idiopathic Parkinsonism or Parkinson's disease,vacuolar protein sorting 13 homolog C,0.45
+516,chr15,62275607,VPS13C,1.351450539,Primary Parkinsonism or Parkinson's disease,vacuolar protein sorting 13 homolog C,0.45
+517,chr15,62316596,VPS13C,1.186185111,Parkinson Disease,vacuolar protein sorting 13 homolog C,0.8
+518,chr15,62316596,VPS13C,1.186185111,Young onset Parkinson disease,vacuolar protein sorting 13 homolog C,0.7
+519,chr15,62316596,VPS13C,1.186185111,Idiopathic Parkinsonism or Parkinson's disease,vacuolar protein sorting 13 homolog C,0.45
+520,chr15,62316596,VPS13C,1.186185111,Primary Parkinsonism or Parkinson's disease,vacuolar protein sorting 13 homolog C,0.45
+521,chr15,62318126,VPS13C,1.30547196,Parkinson Disease,vacuolar protein sorting 13 homolog C,0.8
+522,chr15,62318126,VPS13C,1.30547196,Young onset Parkinson disease,vacuolar protein sorting 13 homolog C,0.7
+523,chr15,62318126,VPS13C,1.30547196,Idiopathic Parkinsonism or Parkinson's disease,vacuolar protein sorting 13 homolog C,0.45
+524,chr15,62318126,VPS13C,1.30547196,Primary Parkinsonism or Parkinson's disease,vacuolar protein sorting 13 homolog C,0.45
+525,chr15,62321382,VPS13C,1.374988778,Parkinson Disease,vacuolar protein sorting 13 homolog C,0.8
+526,chr15,62321382,VPS13C,1.374988778,Young onset Parkinson disease,vacuolar protein sorting 13 homolog C,0.7
+527,chr15,62321382,VPS13C,1.374988778,Idiopathic Parkinsonism or Parkinson's disease,vacuolar protein sorting 13 homolog C,0.45
+528,chr15,62321382,VPS13C,1.374988778,Primary Parkinsonism or Parkinson's disease,vacuolar protein sorting 13 homolog C,0.45
+529,chr15,62322152,VPS13C,1.071802575,Parkinson Disease,vacuolar protein sorting 13 homolog C,0.8
+530,chr15,62322152,VPS13C,1.071802575,Young onset Parkinson disease,vacuolar protein sorting 13 homolog C,0.7
+531,chr15,62322152,VPS13C,1.071802575,Idiopathic Parkinsonism or Parkinson's disease,vacuolar protein sorting 13 homolog C,0.45
+532,chr15,62322152,VPS13C,1.071802575,Primary Parkinsonism or Parkinson's disease,vacuolar protein sorting 13 homolog C,0.45
+533,chr15,62322646,VPS13C,1.237846686,Parkinson Disease,vacuolar protein sorting 13 homolog C,0.8
+534,chr15,62322646,VPS13C,1.237846686,Young onset Parkinson disease,vacuolar protein sorting 13 homolog C,0.7
+535,chr15,62322646,VPS13C,1.237846686,Idiopathic Parkinsonism or Parkinson's disease,vacuolar protein sorting 13 homolog C,0.45
+536,chr15,62322646,VPS13C,1.237846686,Primary Parkinsonism or Parkinson's disease,vacuolar protein sorting 13 homolog C,0.45
+537,chr15,62323084,VPS13C,1.377588597,Parkinson Disease,vacuolar protein sorting 13 homolog C,0.8
+538,chr15,62323084,VPS13C,1.377588597,Young onset Parkinson disease,vacuolar protein sorting 13 homolog C,0.7
+539,chr15,62323084,VPS13C,1.377588597,Idiopathic Parkinsonism or Parkinson's disease,vacuolar protein sorting 13 homolog C,0.45
+540,chr15,62323084,VPS13C,1.377588597,Primary Parkinsonism or Parkinson's disease,vacuolar protein sorting 13 homolog C,0.45
+541,chr15,62325151,VPS13C,1.200447035,Parkinson Disease,vacuolar protein sorting 13 homolog C,0.8
+542,chr15,62325151,VPS13C,1.200447035,Young onset Parkinson disease,vacuolar protein sorting 13 homolog C,0.7
+543,chr15,62325151,VPS13C,1.200447035,Idiopathic Parkinsonism or Parkinson's disease,vacuolar protein sorting 13 homolog C,0.45
+544,chr15,62325151,VPS13C,1.200447035,Primary Parkinsonism or Parkinson's disease,vacuolar protein sorting 13 homolog C,0.45
+545,chr15,62339897,VPS13C,1.109578884,Parkinson Disease,vacuolar protein sorting 13 homolog C,0.8
+546,chr15,62339897,VPS13C,1.109578884,Young onset Parkinson disease,vacuolar protein sorting 13 homolog C,0.7
+547,chr15,62339897,VPS13C,1.109578884,Idiopathic Parkinsonism or Parkinson's disease,vacuolar protein sorting 13 homolog C,0.45
+548,chr15,62339897,VPS13C,1.109578884,Primary Parkinsonism or Parkinson's disease,vacuolar protein sorting 13 homolog C,0.45
+549,chr15,62344607,VPS13C,1.032753765,Parkinson Disease,vacuolar protein sorting 13 homolog C,0.8
+550,chr15,62344607,VPS13C,1.032753765,Young onset Parkinson disease,vacuolar protein sorting 13 homolog C,0.7
+551,chr15,62344607,VPS13C,1.032753765,Idiopathic Parkinsonism or Parkinson's disease,vacuolar protein sorting 13 homolog C,0.45
+552,chr15,62344607,VPS13C,1.032753765,Primary Parkinsonism or Parkinson's disease,vacuolar protein sorting 13 homolog C,0.45
+553,chr15,89859559,POLG,1.340399995,Parkinson Disease,"DNA polymerase gamma, catalytic subunit",0.8
+554,chr15,89862284,POLG,1.39474535,Parkinson Disease,"DNA polymerase gamma, catalytic subunit",0.8
+555,chr15,99192535,IGF1R,1.318065656,Parkinson Disease,insulin like growth factor 1 receptor,0.55
+556,chr15,99192794,IGF1R,1.386475533,Parkinson Disease,insulin like growth factor 1 receptor,0.55
+557,chr15,99197192,IGF1R,1.390023206,Parkinson Disease,insulin like growth factor 1 receptor,0.55
+558,chr15,99251356,IGF1R,1.09370233,Parkinson Disease,insulin like growth factor 1 receptor,0.55
+559,chr15,99253490,IGF1R,1.003676448,Parkinson Disease,insulin like growth factor 1 receptor,0.55
+560,chr15,99263236,IGF1R,1.319327057,Parkinson Disease,insulin like growth factor 1 receptor,0.55
+561,chr15,99266340,IGF1R,1.376143312,Parkinson Disease,insulin like growth factor 1 receptor,0.55
+562,chr15,99270441,IGF1R,1.04646515,Parkinson Disease,insulin like growth factor 1 receptor,0.55
+563,chr15,99273075,IGF1R,1.27338389,Parkinson Disease,insulin like growth factor 1 receptor,0.55
+564,chr15,99274746,IGF1R,1.349856067,Parkinson Disease,insulin like growth factor 1 receptor,0.55
+565,chr15,99276257,IGF1R,1.29060359,Parkinson Disease,insulin like growth factor 1 receptor,0.55
+566,chr15,99279846,IGF1R,1.464757326,Parkinson Disease,insulin like growth factor 1 receptor,0.55
+567,chr15,99285302,IGF1R,1.380378125,Parkinson Disease,insulin like growth factor 1 receptor,0.55
+568,chr15,99288559,IGF1R,1.191665638,Parkinson Disease,insulin like growth factor 1 receptor,0.55
+569,chr15,99289580,IGF1R,1.379655057,Parkinson Disease,insulin like growth factor 1 receptor,0.55
+570,chr15,99289607,IGF1R,1.137889828,Parkinson Disease,insulin like growth factor 1 receptor,0.55
+571,chr15,99293116,IGF1R,1.839959506,Parkinson Disease,insulin like growth factor 1 receptor,0.55
+572,chr15,99296298,IGF1R,1.511650042,Parkinson Disease,insulin like growth factor 1 receptor,0.55
+573,chr15,99296386,IGF1R,1.365144251,Parkinson Disease,insulin like growth factor 1 receptor,0.55
+574,chr15,99337572,IGF1R,1.371358606,Parkinson Disease,insulin like growth factor 1 receptor,0.55
+575,chr15,99346427,IGF1R,1.370220442,Parkinson Disease,insulin like growth factor 1 receptor,0.55
+576,chr15,99377447,IGF1R,1.337737854,Parkinson Disease,insulin like growth factor 1 receptor,0.55
+577,chr15,99456253,IGF1R,1.238911297,Parkinson Disease,insulin like growth factor 1 receptor,0.55
+578,chr15,99505129,IGF1R,1.375868141,Parkinson Disease,insulin like growth factor 1 receptor,0.55
+579,chr15,99505644,IGF1R,1.395071323,Parkinson Disease,insulin like growth factor 1 receptor,0.55
+580,chr16,30125840,MAPK3,1.3041542,Parkinson Disease,mitogen-activated protein kinase 3,0.7
+581,chr16,46693621,VPS35,1.30820063,Parkinson Disease,VPS35 retromer complex component,1
+582,chr16,46696985,VPS35,1.391224237,Parkinson Disease,VPS35 retromer complex component,1
+583,chr18,9125846,NDUFV2,1.391854863,Parkinson Disease,NADH:ubiquinone oxidoreductase core subunit V2,0.65
+584,chr2,37330169,EIF2AK2,1.389272464,Parkinson Disease,eukaryotic translation initiation factor 2 alpha kinase 2,0.65
+585,chr2,37330503,EIF2AK2,1.34758951,Parkinson Disease,eukaryotic translation initiation factor 2 alpha kinase 2,0.65
+586,chr2,37330614,EIF2AK2,1.31544025,Parkinson Disease,eukaryotic translation initiation factor 2 alpha kinase 2,0.65
+587,chr2,37331840,EIF2AK2,2.106849743,Parkinson Disease,eukaryotic translation initiation factor 2 alpha kinase 2,0.65
+588,chr2,37331841,EIF2AK2,1.805268049,Parkinson Disease,eukaryotic translation initiation factor 2 alpha kinase 2,0.65
+589,chr2,74757447,HTRA2,1.395396343,Parkinson Disease,HtrA serine peptidase 2,0.8
+591,chr2,138722097,HNMT,1.378623356,Parkinson Disease,histamine N-methyltransferase,0.8
+592,chr2,208401502,CREB1,1.331769917,Parkinson Disease,cAMP responsive element binding protein 1,0.7
+593,chr2,208402750,CREB1,1.05371802,Parkinson Disease,cAMP responsive element binding protein 1,0.7
+594,chr2,208403768,CREB1,2.147006553,Parkinson Disease,cAMP responsive element binding protein 1,0.7
+595,chr2,208407215,CREB1,1.37733968,Parkinson Disease,cAMP responsive element binding protein 1,0.7
+596,chr2,208414693,CREB1,1.371614696,Parkinson Disease,cAMP responsive element binding protein 1,0.7
+597,chr2,208431624,CREB1,1.393713651,Parkinson Disease,cAMP responsive element binding protein 1,0.7
+598,chr2,208433187,CREB1,1.391301916,Parkinson Disease,cAMP responsive element binding protein 1,0.7
+599,chr2,208437039,CREB1,1.364929586,Parkinson Disease,cAMP responsive element binding protein 1,0.7
+600,chr2,208439747,CREB1,1.387301261,Parkinson Disease,cAMP responsive element binding protein 1,0.7
+601,chr2,208441865,CREB1,1.350641537,Parkinson Disease,cAMP responsive element binding protein 1,0.7
+602,chr2,208442708,CREB1,1.330119959,Parkinson Disease,cAMP responsive element binding protein 1,0.7
+603,chr2,208444397,CREB1,1.702947068,Parkinson Disease,cAMP responsive element binding protein 1,0.7
+604,chr2,208444466,CREB1,1.373832052,Parkinson Disease,cAMP responsive element binding protein 1,0.7
+605,chr2,208450788,CREB1,1.01712295,Parkinson Disease,cAMP responsive element binding protein 1,0.7
+606,chr2,208452116,CREB1,2.197019163,Parkinson Disease,cAMP responsive element binding protein 1,0.7
+607,chr2,208452726,CREB1,1.388850575,Parkinson Disease,cAMP responsive element binding protein 1,0.7
+608,chr2,208453745,CREB1,1.385503208,Parkinson Disease,cAMP responsive element binding protein 1,0.7
+609,chr2,208454966,CREB1,1.37150074,Parkinson Disease,cAMP responsive element binding protein 1,0.7
+610,chr2,208463255,CREB1,1.707207575,Parkinson Disease,cAMP responsive element binding protein 1,0.7
+611,chr2,208463773,CREB1,1.395069754,Parkinson Disease,cAMP responsive element binding protein 1,0.7
+612,chr2,208469184,CREB1,1.353402493,Parkinson Disease,cAMP responsive element binding protein 1,0.7
+613,chr2,233562731,GIGYF2,1.049271664,Parkinson Disease,GRB10 interacting GYF protein 2,0.75
+614,chr2,233565262,GIGYF2,1.384437381,Parkinson Disease,GRB10 interacting GYF protein 2,0.75
+615,chr2,233567335,GIGYF2,1.353642101,Parkinson Disease,GRB10 interacting GYF protein 2,0.75
+616,chr2,233580530,GIGYF2,1.033247308,Parkinson Disease,GRB10 interacting GYF protein 2,0.75
+617,chr2,233675932,GIGYF2,1.674183812,Parkinson Disease,GRB10 interacting GYF protein 2,0.75
+618,chr2,233708768,GIGYF2,1.382760964,Parkinson Disease,GRB10 interacting GYF protein 2,0.75
+619,chr2,233722216,GIGYF2,1.390023206,Parkinson Disease,GRB10 interacting GYF protein 2,0.75
+620,chr21,34046605,SYNJ1,1.388616659,Parkinson Disease,synaptojanin 1,0.9
+621,chr21,34046605,SYNJ1,1.388616659,Young onset Parkinson disease,synaptojanin 1,0.7
+622,chr21,34100190,SYNJ1,1.391130395,Parkinson Disease,synaptojanin 1,0.9
+623,chr21,34100190,SYNJ1,1.391130395,Young onset Parkinson disease,synaptojanin 1,0.7
+624,chr22,22109381,MAPK1,1.080079452,Parkinson Disease,mitogen-activated protein kinase 1,0.8
+625,chr22,22110258,MAPK1,1.390805149,Parkinson Disease,mitogen-activated protein kinase 1,0.8
+626,chr22,22114674,MAPK1,1.391614648,Parkinson Disease,mitogen-activated protein kinase 1,0.8
+627,chr22,22116467,MAPK1,1.175499669,Parkinson Disease,mitogen-activated protein kinase 1,0.8
+628,chr22,22121075,MAPK1,1.389368482,Parkinson Disease,mitogen-activated protein kinase 1,0.8
+629,chr22,22126203,MAPK1,1.10357436,Parkinson Disease,mitogen-activated protein kinase 1,0.8
+630,chr22,22139890,MAPK1,1.291089178,Parkinson Disease,mitogen-activated protein kinase 1,0.8
+631,chr22,22151963,MAPK1,1.385991937,Parkinson Disease,mitogen-activated protein kinase 1,0.8
+632,chr22,22155811,MAPK1,1.309021438,Parkinson Disease,mitogen-activated protein kinase 1,0.8
+633,chr22,22160017,MAPK1,1.372619046,Parkinson Disease,mitogen-activated protein kinase 1,0.8
+634,chr22,22183431,MAPK1,1.374593186,Parkinson Disease,mitogen-activated protein kinase 1,0.8
+635,chr22,22184133,MAPK1,1.100548236,Parkinson Disease,mitogen-activated protein kinase 1,0.8
+636,chr22,22196838,MAPK1,1.692026824,Parkinson Disease,mitogen-activated protein kinase 1,0.8
+637,chr22,22199321,MAPK1,1.07614957,Parkinson Disease,mitogen-activated protein kinase 1,0.8
+638,chr22,22200092,MAPK1,1.359270627,Parkinson Disease,mitogen-activated protein kinase 1,0.8
+639,chr22,22201192,MAPK1,1.290346506,Parkinson Disease,mitogen-activated protein kinase 1,0.8
+640,chr22,22208479,MAPK1,1.373735584,Parkinson Disease,mitogen-activated protein kinase 1,0.8
+641,chr22,22208595,MAPK1,1.070361509,Parkinson Disease,mitogen-activated protein kinase 1,0.8
+642,chr22,22215164,MAPK1,1.233820647,Parkinson Disease,mitogen-activated protein kinase 1,0.8
+643,chr22,22218622,MAPK1,1.095807123,Parkinson Disease,mitogen-activated protein kinase 1,0.8
+644,chr22,22221396,MAPK1,1.384589294,Parkinson Disease,mitogen-activated protein kinase 1,0.8
+645,chr22,32877869,FBXO7,1.506447562,Parkinson Disease,F-box protein 7,0.85
+646,chr22,32878255,FBXO7,1.374929852,Parkinson Disease,F-box protein 7,0.85
+647,chr22,32885549,FBXO7,1.390929255,Parkinson Disease,F-box protein 7,0.85
+649,chr3,132155742,DNAJC13,1.206942878,Parkinson Disease,DnaJ heat shock protein family (Hsp40) member C13,0.8
+650,chr3,132164666,DNAJC13,1.369848885,Parkinson Disease,DnaJ heat shock protein family (Hsp40) member C13,0.8
+651,chr3,132167390,DNAJC13,1.343502884,Parkinson Disease,DnaJ heat shock protein family (Hsp40) member C13,0.8
+652,chr3,132175654,DNAJC13,1.39474853,Parkinson Disease,DnaJ heat shock protein family (Hsp40) member C13,0.8
+653,chr3,132179195,DNAJC13,1.396367899,Parkinson Disease,DnaJ heat shock protein family (Hsp40) member C13,0.8
+654,chr3,132185147,DNAJC13,1.394592299,Parkinson Disease,DnaJ heat shock protein family (Hsp40) member C13,0.8
+655,chr3,132188109,DNAJC13,1.371539591,Parkinson Disease,DnaJ heat shock protein family (Hsp40) member C13,0.8
+656,chr3,132241815,DNAJC13,1.38918222,Parkinson Disease,DnaJ heat shock protein family (Hsp40) member C13,0.8
+657,chr3,148889063,CP,1.620337938,Parkinson Disease,ceruloplasmin,0.75
+658,chr3,148889625,CP,1.705685167,Parkinson Disease,ceruloplasmin,0.75
+659,chr3,195617489,TNK2,1.309862294,Parkinson Disease,tyrosine kinase non receptor 2,0.65
+660,chr3,195618112,TNK2,1.696441397,Parkinson Disease,tyrosine kinase non receptor 2,0.65
+661,chr3,195618534,TNK2,1.051860574,Parkinson Disease,tyrosine kinase non receptor 2,0.65
+662,chr3,195625326,TNK2,1.413618588,Parkinson Disease,tyrosine kinase non receptor 2,0.65
+663,chr4,3129204,HTT,1.648289892,Parkinson Disease,huntingtin,0.8
+664,chr4,3144591,HTT,1.392383273,Parkinson Disease,huntingtin,0.8
+665,chr4,3162056,HTT,1.234083208,Parkinson Disease,huntingtin,0.8
+666,chr4,3242148,HTT,1.131811321,Parkinson Disease,huntingtin,0.8
+667,chr4,39289473,RFC1,1.135058011,Parkinson Disease,replication factor C subunit 1,0.6
+668,chr4,39302019,RFC1,1.395048479,Parkinson Disease,replication factor C subunit 1,0.6
+669,chr4,39310460,RFC1,1.383448914,Parkinson Disease,replication factor C subunit 1,0.6
+670,chr4,39343996,RFC1,1.687742285,Parkinson Disease,replication factor C subunit 1,0.6
+671,chr4,90646492,SNCA,1.607995815,Parkinson Disease,synuclein alpha,1
+672,chr4,90646492,SNCA,1.607995815,Young onset Parkinson disease,synuclein alpha,0.75
+673,chr4,90646492,SNCA,1.607995815,Idiopathic Parkinsonism or Parkinson's disease,synuclein alpha,0.5
+674,chr4,90646492,SNCA,1.607995815,Primary Parkinsonism or Parkinson's disease,synuclein alpha,0.5
+675,chr4,185548951,CASP3,1.13607874,Parkinson Disease,caspase 3,0.75
+676,chr4,185550407,CASP3,1.969549781,Parkinson Disease,caspase 3,0.75
+677,chr5,74647032,HMGCR,1.394289534,Parkinson Disease,3-hydroxy-3-methylglutaryl-CoA reductase,0.65
+678,chr5,74654520,HMGCR,1.388691653,Parkinson Disease,3-hydroxy-3-methylglutaryl-CoA reductase,0.65
+679,chr5,96002671,CAST,1.370991684,Parkinson Disease,calpastatin,0.7
+680,chr5,96003279,CAST,1.13506669,Parkinson Disease,calpastatin,0.7
+681,chr5,96010323,CAST,1.369633897,Parkinson Disease,calpastatin,0.7
+682,chr5,96014683,CAST,1.045668895,Parkinson Disease,calpastatin,0.7
+683,chr5,96021689,CAST,1.382108956,Parkinson Disease,calpastatin,0.7
+684,chr5,96024567,CAST,1.318181818,Parkinson Disease,calpastatin,0.7
+685,chr5,96037616,CAST,1.690308571,Parkinson Disease,calpastatin,0.7
+686,chr5,96054837,CAST,1.040464329,Parkinson Disease,calpastatin,0.7
+687,chr5,96056202,CAST,1.376971974,Parkinson Disease,calpastatin,0.7
+688,chr5,96061699,CAST,1.004494729,Parkinson Disease,calpastatin,0.7
+689,chr5,96072267,CAST,1.333929786,Parkinson Disease,calpastatin,0.7
+690,chr5,96086334,CAST,1.149910174,Parkinson Disease,calpastatin,0.7
+691,chr5,96099667,CAST,2.100549732,Parkinson Disease,calpastatin,0.7
+692,chr5,96100140,CAST,1.700910697,Parkinson Disease,calpastatin,0.7
+693,chr5,96101944,CAST,1.481231634,Parkinson Disease,calpastatin,0.7
+694,chr5,96103799,CAST,1.181891817,Parkinson Disease,calpastatin,0.7
+695,chr5,96112916,CAST,1.38538279,Parkinson Disease,calpastatin,0.7
+696,chr5,96114108,CAST,1.386575116,Parkinson Disease,calpastatin,0.7
+697,chr5,96114631,CAST,1.393909469,Parkinson Disease,calpastatin,0.7
+698,chr5,137895678,HSPA9,1.386380425,Parkinson Disease,heat shock protein family A (Hsp70) member 9,0.85
+699,chr5,176855440,GRK6,1.665427521,Parkinson Disease,G protein-coupled receptor kinase 6,0.7
+700,chr6,2988937,NQO2,1.273347966,Parkinson Disease,N-ribosyldihydronicotinamide:quinone dehydrogenase 2,0.7
+701,chr6,3003914,NQO2,1.411328273,Parkinson Disease,N-ribosyldihydronicotinamide:quinone dehydrogenase 2,0.7
+702,chr6,3003915,NQO2,1.395435062,Parkinson Disease,N-ribosyldihydronicotinamide:quinone dehydrogenase 2,0.7
+703,chr6,3003917,NQO2,1.40833037,Parkinson Disease,N-ribosyldihydronicotinamide:quinone dehydrogenase 2,0.7
+704,chr6,32546758,HLA-DRB1,2.532519126,Parkinson Disease,"major histocompatibility complex, class II, DR beta 1",0.75
+705,chr6,32548026,HLA-DRB1,1.048405734,Parkinson Disease,"major histocompatibility complex, class II, DR beta 1",0.75
+706,chr6,32549359,HLA-DRB1,2.515428809,Parkinson Disease,"major histocompatibility complex, class II, DR beta 1",0.75
+707,chr6,32549416,HLA-DRB1,2.429521589,Parkinson Disease,"major histocompatibility complex, class II, DR beta 1",0.75
+708,chr6,32549452,HLA-DRB1,1.870015273,Parkinson Disease,"major histocompatibility complex, class II, DR beta 1",0.75
+709,chr6,32549481,HLA-DRB1,1.063465667,Parkinson Disease,"major histocompatibility complex, class II, DR beta 1",0.75
+710,chr6,32550738,HLA-DRB1,1.274285203,Parkinson Disease,"major histocompatibility complex, class II, DR beta 1",0.75
+711,chr6,32551911,HLA-DRB1,1.882230248,Parkinson Disease,"major histocompatibility complex, class II, DR beta 1",0.75
+712,chr6,32551957,HLA-DRB1,1.859804663,Parkinson Disease,"major histocompatibility complex, class II, DR beta 1",0.75
+713,chr6,32551961,HLA-DRB1,2.039319773,Parkinson Disease,"major histocompatibility complex, class II, DR beta 1",0.75
+714,chr6,32552067,HLA-DRB1,1.252230731,Parkinson Disease,"major histocompatibility complex, class II, DR beta 1",0.75
+715,chr6,32552085,HLA-DRB1,1.029425521,Parkinson Disease,"major histocompatibility complex, class II, DR beta 1",0.75
+716,chr6,32553750,HLA-DRB1,1.295588431,Parkinson Disease,"major histocompatibility complex, class II, DR beta 1",0.75
+717,chr6,32554558,HLA-DRB1,2.113860686,Parkinson Disease,"major histocompatibility complex, class II, DR beta 1",0.75
+718,chr6,32554595,HLA-DRB1,2.010775846,Parkinson Disease,"major histocompatibility complex, class II, DR beta 1",0.75
+719,chr6,32555998,HLA-DRB1,1.725297,Parkinson Disease,"major histocompatibility complex, class II, DR beta 1",0.75
+720,chr6,32557436,HLA-DRB1,2.006642133,Parkinson Disease,"major histocompatibility complex, class II, DR beta 1",0.75
+721,chr6,32557552,HLA-DRB1,1.841439221,Parkinson Disease,"major histocompatibility complex, class II, DR beta 1",0.75
+722,chr6,136890113,MAP3K5,1.354206074,Parkinson Disease,mitogen-activated protein kinase kinase kinase 5,0.65
+723,chr6,136891356,MAP3K5,1.707424885,Parkinson Disease,mitogen-activated protein kinase kinase kinase 5,0.65
+724,chr6,136957575,MAP3K5,1.050539829,Parkinson Disease,mitogen-activated protein kinase kinase kinase 5,0.65
+725,chr6,136963890,MAP3K5,1.291035719,Parkinson Disease,mitogen-activated protein kinase kinase kinase 5,0.65
+726,chr6,136967796,MAP3K5,1.394073588,Parkinson Disease,mitogen-activated protein kinase kinase kinase 5,0.65
+727,chr6,136975882,MAP3K5,1.375113527,Parkinson Disease,mitogen-activated protein kinase kinase kinase 5,0.65
+728,chr6,136982052,MAP3K5,1.35784359,Parkinson Disease,mitogen-activated protein kinase kinase kinase 5,0.65
+729,chr6,136982098,MAP3K5,1.355896269,Parkinson Disease,mitogen-activated protein kinase kinase kinase 5,0.65
+730,chr6,136982716,MAP3K5,1.654110446,Parkinson Disease,mitogen-activated protein kinase kinase kinase 5,0.65
+731,chr6,136983797,MAP3K5,1.367735393,Parkinson Disease,mitogen-activated protein kinase kinase kinase 5,0.65
+732,chr6,136984681,MAP3K5,1.924270104,Parkinson Disease,mitogen-activated protein kinase kinase kinase 5,0.65
+733,chr6,136989243,MAP3K5,1.213266593,Parkinson Disease,mitogen-activated protein kinase kinase kinase 5,0.65
+734,chr6,137017315,MAP3K5,1.352456055,Parkinson Disease,mitogen-activated protein kinase kinase kinase 5,0.65
+735,chr6,137081420,MAP3K5,1.348401462,Parkinson Disease,mitogen-activated protein kinase kinase kinase 5,0.65
+736,chr6,137095096,MAP3K5,1.696828603,Parkinson Disease,mitogen-activated protein kinase kinase kinase 5,0.65
+737,chr6,137095337,MAP3K5,1.37235625,Parkinson Disease,mitogen-activated protein kinase kinase kinase 5,0.65
+738,chr6,137101963,MAP3K5,1.381254422,Parkinson Disease,mitogen-activated protein kinase kinase kinase 5,0.65
+739,chr6,137107249,MAP3K5,1.936010573,Parkinson Disease,mitogen-activated protein kinase kinase kinase 5,0.65
+740,chr6,137108178,MAP3K5,1.393296653,Parkinson Disease,mitogen-activated protein kinase kinase kinase 5,0.65
+741,chr6,137109776,MAP3K5,1.398924323,Parkinson Disease,mitogen-activated protein kinase kinase kinase 5,0.65
+742,chr6,137110173,MAP3K5,2.201147003,Parkinson Disease,mitogen-activated protein kinase kinase kinase 5,0.65
+743,chr6,143895670,PHACTR2,1.92726356,Parkinson Disease,phosphatase and actin regulator 2,0.55
+744,chr6,143896211,PHACTR2,1.358733312,Parkinson Disease,phosphatase and actin regulator 2,0.55
+745,chr6,143897614,PHACTR2,1.115666499,Parkinson Disease,phosphatase and actin regulator 2,0.55
+746,chr6,143899636,PHACTR2,1.170170887,Parkinson Disease,phosphatase and actin regulator 2,0.55
+747,chr6,143902149,PHACTR2,1.168010173,Parkinson Disease,phosphatase and actin regulator 2,0.55
+748,chr6,143930768,PHACTR2,1.385910809,Parkinson Disease,phosphatase and actin regulator 2,0.55
+749,chr6,143931077,PHACTR2,1.374144434,Parkinson Disease,phosphatase and actin regulator 2,0.55
+750,chr6,143933555,PHACTR2,1.05732149,Parkinson Disease,phosphatase and actin regulator 2,0.55
+751,chr6,143935291,PHACTR2,1.358097358,Parkinson Disease,phosphatase and actin regulator 2,0.55
+752,chr6,143938026,PHACTR2,1.212811936,Parkinson Disease,phosphatase and actin regulator 2,0.55
+753,chr6,143959022,PHACTR2,1.104742525,Parkinson Disease,phosphatase and actin regulator 2,0.55
+754,chr6,143973810,PHACTR2,1.038650683,Parkinson Disease,phosphatase and actin regulator 2,0.55
+755,chr6,144149177,PHACTR2,1.234228517,Parkinson Disease,phosphatase and actin regulator 2,0.55
+756,chr6,144149253,PHACTR2,1.386543939,Parkinson Disease,phosphatase and actin regulator 2,0.55
+757,chr6,144149659,PHACTR2,1.39109547,Parkinson Disease,phosphatase and actin regulator 2,0.55
+758,chr6,160091318,SOD2,1.532669161,Parkinson Disease,superoxide dismutase 2,0.8
+759,chr6,160106277,SOD2,2.023813088,Parkinson Disease,superoxide dismutase 2,0.8
+760,chr6,160112013,SOD2,2.564564309,Parkinson Disease,superoxide dismutase 2,0.8
+761,chr6,160167422,SOD2,1.946320347,Parkinson Disease,superoxide dismutase 2,0.8
+762,chr6,160168905,SOD2,1.385645249,Parkinson Disease,superoxide dismutase 2,0.8
+763,chr6,160390788,IGF2R,1.383187407,Parkinson Disease,insulin like growth factor 2 receptor,0.6
+764,chr6,160392131,IGF2R,1.389975774,Parkinson Disease,insulin like growth factor 2 receptor,0.6
+765,chr6,160398634,IGF2R,1.394550219,Parkinson Disease,insulin like growth factor 2 receptor,0.6
+766,chr6,160403728,IGF2R,1.387950079,Parkinson Disease,insulin like growth factor 2 receptor,0.6
+767,chr6,160404925,IGF2R,1.391029113,Parkinson Disease,insulin like growth factor 2 receptor,0.6
+768,chr6,160410331,IGF2R,1.040798902,Parkinson Disease,insulin like growth factor 2 receptor,0.6
+769,chr6,160411747,IGF2R,1.214176849,Parkinson Disease,insulin like growth factor 2 receptor,0.6
+770,chr6,160413613,IGF2R,1.398665285,Parkinson Disease,insulin like growth factor 2 receptor,0.6
+771,chr6,160415536,IGF2R,1.385646537,Parkinson Disease,insulin like growth factor 2 receptor,0.6
+772,chr6,160416952,IGF2R,1.362708832,Parkinson Disease,insulin like growth factor 2 receptor,0.6
+773,chr6,160417710,IGF2R,1.394279357,Parkinson Disease,insulin like growth factor 2 receptor,0.6
+774,chr6,160417865,IGF2R,1.391978426,Parkinson Disease,insulin like growth factor 2 receptor,0.6
+775,chr6,160428372,IGF2R,1.371846027,Parkinson Disease,insulin like growth factor 2 receptor,0.6
+776,chr6,160445804,IGF2R,1.38952789,Parkinson Disease,insulin like growth factor 2 receptor,0.6
+777,chr6,160445811,IGF2R,1.390182245,Parkinson Disease,insulin like growth factor 2 receptor,0.6
+778,chr6,160446870,IGF2R,1.39547491,Parkinson Disease,insulin like growth factor 2 receptor,0.6
+779,chr6,160447944,IGF2R,1.396899643,Parkinson Disease,insulin like growth factor 2 receptor,0.6
+780,chr6,160454552,IGF2R,1.268497409,Parkinson Disease,insulin like growth factor 2 receptor,0.6
+781,chr6,160456216,IGF2R,1.38258663,Parkinson Disease,insulin like growth factor 2 receptor,0.6
+782,chr6,160463028,IGF2R,1.635958692,Parkinson Disease,insulin like growth factor 2 receptor,0.6
+783,chr6,160467890,IGF2R,1.427112344,Parkinson Disease,insulin like growth factor 2 receptor,0.6
+784,chr6,160468383,IGF2R,1.174251346,Parkinson Disease,insulin like growth factor 2 receptor,0.6
+785,chr6,160470968,IGF2R,1.372169284,Parkinson Disease,insulin like growth factor 2 receptor,0.6
+786,chr6,160476453,IGF2R,1.377305825,Parkinson Disease,insulin like growth factor 2 receptor,0.6
+787,chr6,160478472,IGF2R,1.109778917,Parkinson Disease,insulin like growth factor 2 receptor,0.6
+788,chr6,160479798,IGF2R,1.37829801,Parkinson Disease,insulin like growth factor 2 receptor,0.6
+789,chr6,160480943,IGF2R,1.132875811,Parkinson Disease,insulin like growth factor 2 receptor,0.6
+790,chr6,160484321,IGF2R,1.042744395,Parkinson Disease,insulin like growth factor 2 receptor,0.6
+791,chr6,160489463,IGF2R,1.392504943,Parkinson Disease,insulin like growth factor 2 receptor,0.6
+792,chr6,160489525,IGF2R,1.967972828,Parkinson Disease,insulin like growth factor 2 receptor,0.6
+793,chr6,160494521,IGF2R,1.312716109,Parkinson Disease,insulin like growth factor 2 receptor,0.6
+794,chr6,160496155,IGF2R,1.379895041,Parkinson Disease,insulin like growth factor 2 receptor,0.6
+795,chr6,160501638,IGF2R,1.38222554,Parkinson Disease,insulin like growth factor 2 receptor,0.6
+796,chr6,160501707,IGF2R,1.04609549,Parkinson Disease,insulin like growth factor 2 receptor,0.6
+797,chr6,160504090,IGF2R,1.398361972,Parkinson Disease,insulin like growth factor 2 receptor,0.6
+798,chr6,160504615,IGF2R,1.203314256,Parkinson Disease,insulin like growth factor 2 receptor,0.6
+799,chr6,160506842,IGF2R,1.383524631,Parkinson Disease,insulin like growth factor 2 receptor,0.6
+800,chr6,160523544,IGF2R,1.365945057,Parkinson Disease,insulin like growth factor 2 receptor,0.6
+801,chr9,97401508,FBP1,1.352726016,Parkinson Disease,fructose-bisphosphatase 1,0.55
+802,chr18,9117867,NDUFV2,1.194410452,Parkinson Disease,NADH:ubiquinone oxidoreductase core subunit V2,0.65
+803,chr6,160390971,IGF2R,1.016876014,Parkinson Disease,insulin like growth factor 2 receptor,0.6
+804,chr6,160502727,IGF2R,1.117679446,Parkinson Disease,insulin like growth factor 2 receptor,0.6
+805,chr12,9238310,A2M,1.409134485,Parkinson Disease,alpha-2-macroglobulin,0.65
+806,chr12,9242205,A2M,1.220672793,Parkinson Disease,alpha-2-macroglobulin,0.65
+807,chr1,15844615,CASP9,1.490705207,Parkinson Disease,caspase 9,0.7
+808,chr12,32875406,DNM1L,1.051399425,Parkinson Disease,dynamin 1 like,0.75
+809,chr12,40689889,LRRK2,1.104661214,Parkinson Disease,leucine rich repeat kinase 2,1
+810,chr12,40689889,LRRK2,1.104661214,Young onset Parkinson disease,leucine rich repeat kinase 2,0.7
+811,chr12,40704557,LRRK2,1.182608429,Parkinson Disease,leucine rich repeat kinase 2,1
+812,chr12,40704557,LRRK2,1.182608429,Young onset Parkinson disease,leucine rich repeat kinase 2,0.7
+813,chr12,46759136,SLC38A2,1.102381804,Parkinson Disease,solute carrier family 38 member 2,0.4
+814,chr1,65830403,DNAJC6,1.386475533,Parkinson Disease,DnaJ heat shock protein family (Hsp40) member C6,0.85
+815,chr1,65830403,DNAJC6,1.386475533,Young onset Parkinson disease,DnaJ heat shock protein family (Hsp40) member C6,0.65
+816,chr1,65830403,DNAJC6,1.386475533,Idiopathic Parkinsonism or Parkinson's disease,DnaJ heat shock protein family (Hsp40) member C6,0.45
+817,chr1,65830403,DNAJC6,1.386475533,Primary Parkinsonism or Parkinson's disease,DnaJ heat shock protein family (Hsp40) member C6,0.45
+818,chr10,106020975,GSTO1,1.380751174,Parkinson Disease,glutathione S-transferase omega 1,0.7
+819,chr10,119037534,SLC18A2,1.375295886,Parkinson Disease,solute carrier family 18 member A2,0.95
+820,chr11,108096289,ATM,1.391675605,Parkinson Disease,ATM serine/threonine kinase,0.7
+821,chr11,108106734,ATM,1.360377272,Parkinson Disease,ATM serine/threonine kinase,0.7
+822,chr11,108107319,ATM,1.381417495,Parkinson Disease,ATM serine/threonine kinase,0.7
+823,chr11,108110518,ATM,1.38753513,Parkinson Disease,ATM serine/threonine kinase,0.7
+824,chr11,108111589,ATM,1.391941113,Parkinson Disease,ATM serine/threonine kinase,0.7
+825,chr11,108112589,ATM,1.362180065,Parkinson Disease,ATM serine/threonine kinase,0.7
+826,chr11,108115080,ATM,1.376695978,Parkinson Disease,ATM serine/threonine kinase,0.7
+827,chr11,108149813,ATM,1.359408145,Parkinson Disease,ATM serine/threonine kinase,0.7
+828,chr11,108172337,ATM,1.358565584,Parkinson Disease,ATM serine/threonine kinase,0.7
+829,chr11,108172998,ATM,1.01984127,Parkinson Disease,ATM serine/threonine kinase,0.7
+830,chr12,9227787,A2M,1.297597646,Parkinson Disease,alpha-2-macroglobulin,0.65
+831,chr12,9234762,A2M,1.388730749,Parkinson Disease,alpha-2-macroglobulin,0.65
+832,chr12,9235412,A2M,1.386164114,Parkinson Disease,alpha-2-macroglobulin,0.65
+833,chr12,9239058,A2M,1.391768557,Parkinson Disease,alpha-2-macroglobulin,0.65
+834,chr12,9240235,A2M,1.412246253,Parkinson Disease,alpha-2-macroglobulin,0.65
+835,chr12,9241615,A2M,1.390798486,Parkinson Disease,alpha-2-macroglobulin,0.65
+836,chr12,9259553,A2M,1.308080739,Parkinson Disease,alpha-2-macroglobulin,0.65
+837,chr12,9269471,A2M,1.358516789,Parkinson Disease,alpha-2-macroglobulin,0.65
+838,chr12,32866240,DNM1L,1.396782357,Parkinson Disease,dynamin 1 like,0.75
+839,chr12,32886729,DNM1L,1.381287644,Parkinson Disease,dynamin 1 like,0.75
+840,chr12,32890775,DNM1L,1.671515975,Parkinson Disease,dynamin 1 like,0.75
+841,chr12,32896615,DNM1L,1.415660014,Parkinson Disease,dynamin 1 like,0.75
+842,chr12,40625372,LRRK2,1.362485277,Parkinson Disease,leucine rich repeat kinase 2,1
+843,chr12,40625372,LRRK2,1.362485277,Young onset Parkinson disease,leucine rich repeat kinase 2,0.7
+844,chr12,40632100,LRRK2,1.013625111,Parkinson Disease,leucine rich repeat kinase 2,1
+845,chr12,40632100,LRRK2,1.013625111,Young onset Parkinson disease,leucine rich repeat kinase 2,0.7
+846,chr12,40635948,LRRK2,1.389535383,Parkinson Disease,leucine rich repeat kinase 2,1
+847,chr12,40635948,LRRK2,1.389535383,Young onset Parkinson disease,leucine rich repeat kinase 2,0.7
+848,chr12,40637051,LRRK2,1.395481526,Parkinson Disease,leucine rich repeat kinase 2,1
+849,chr12,40637051,LRRK2,1.395481526,Young onset Parkinson disease,leucine rich repeat kinase 2,0.7
+850,chr12,40638827,LRRK2,1.966603003,Parkinson Disease,leucine rich repeat kinase 2,1
+851,chr12,40638827,LRRK2,1.966603003,Young onset Parkinson disease,leucine rich repeat kinase 2,0.7
+852,chr12,40640058,LRRK2,1.354884954,Parkinson Disease,leucine rich repeat kinase 2,1
+853,chr12,40640058,LRRK2,1.354884954,Young onset Parkinson disease,leucine rich repeat kinase 2,0.7
+854,chr12,40644874,LRRK2,1.289160675,Parkinson Disease,leucine rich repeat kinase 2,1
+855,chr12,40644874,LRRK2,1.289160675,Young onset Parkinson disease,leucine rich repeat kinase 2,0.7
+856,chr12,40648875,LRRK2,1.38494367,Parkinson Disease,leucine rich repeat kinase 2,1
+857,chr12,40648875,LRRK2,1.38494367,Young onset Parkinson disease,leucine rich repeat kinase 2,0.7
+858,chr12,40649749,LRRK2,1.37014878,Parkinson Disease,leucine rich repeat kinase 2,1
+859,chr12,40649749,LRRK2,1.37014878,Young onset Parkinson disease,leucine rich repeat kinase 2,0.7
+860,chr12,40649919,LRRK2,1.396515697,Parkinson Disease,leucine rich repeat kinase 2,1
+861,chr12,40649919,LRRK2,1.396515697,Young onset Parkinson disease,leucine rich repeat kinase 2,0.7
+862,chr12,40685285,LRRK2,1.081619851,Parkinson Disease,leucine rich repeat kinase 2,1
+863,chr12,40685285,LRRK2,1.081619851,Young onset Parkinson disease,leucine rich repeat kinase 2,0.7
+864,chr12,40707499,LRRK2,1.397462733,Parkinson Disease,leucine rich repeat kinase 2,1
+865,chr12,40707499,LRRK2,1.397462733,Young onset Parkinson disease,leucine rich repeat kinase 2,0.7
+866,chr12,40714091,LRRK2,1.393361664,Parkinson Disease,leucine rich repeat kinase 2,1
+867,chr12,40714091,LRRK2,1.393361664,Young onset Parkinson disease,leucine rich repeat kinase 2,0.7
+868,chr12,40714763,LRRK2,1.390576758,Parkinson Disease,leucine rich repeat kinase 2,1
+869,chr12,40714763,LRRK2,1.390576758,Young onset Parkinson disease,leucine rich repeat kinase 2,0.7
+870,chr12,40716917,LRRK2,1.38660289,Parkinson Disease,leucine rich repeat kinase 2,1
+871,chr12,40716917,LRRK2,1.38660289,Young onset Parkinson disease,leucine rich repeat kinase 2,0.7
+872,chr12,40717533,LRRK2,1.393083316,Parkinson Disease,leucine rich repeat kinase 2,1
+873,chr12,40717533,LRRK2,1.393083316,Young onset Parkinson disease,leucine rich repeat kinase 2,0.7
+874,chr12,40718933,LRRK2,1.390897062,Parkinson Disease,leucine rich repeat kinase 2,1
+875,chr12,40718933,LRRK2,1.390897062,Young onset Parkinson disease,leucine rich repeat kinase 2,0.7
+876,chr12,40726790,LRRK2,1.696557982,Parkinson Disease,leucine rich repeat kinase 2,1
+877,chr12,40726790,LRRK2,1.696557982,Young onset Parkinson disease,leucine rich repeat kinase 2,0.7
+878,chr12,40733945,LRRK2,1.380266901,Parkinson Disease,leucine rich repeat kinase 2,1
+879,chr12,40733945,LRRK2,1.380266901,Young onset Parkinson disease,leucine rich repeat kinase 2,0.7
+880,chr12,40739890,LRRK2,1.391913727,Parkinson Disease,leucine rich repeat kinase 2,1
+881,chr12,40739890,LRRK2,1.391913727,Young onset Parkinson disease,leucine rich repeat kinase 2,0.7
+882,chr12,40745713,LRRK2,1.378908586,Parkinson Disease,leucine rich repeat kinase 2,1
+883,chr12,40745713,LRRK2,1.378908586,Young onset Parkinson disease,leucine rich repeat kinase 2,0.7
+884,chr12,46758405,SLC38A2,1.383719078,Parkinson Disease,solute carrier family 38 member 2,0.4
+885,chr12,46759057,SLC38A2,1.363703225,Parkinson Disease,solute carrier family 38 member 2,0.4
+886,chr12,46765946,SLC38A2,1.100109118,Parkinson Disease,solute carrier family 38 member 2,0.4
+887,chr14,104024084,BAG5,1.366831988,Parkinson Disease,BAG cochaperone 5,0.65
+888,chr14,104026801,BAG5,1.395094613,Parkinson Disease,BAG cochaperone 5,0.65
+889,chr14,105239894,AKT1,1.418843248,Parkinson Disease,AKT serine/threonine kinase 1,0.8
+890,chr14,105261247,AKT1,1.391694933,Parkinson Disease,AKT serine/threonine kinase 1,0.8
+891,chr15,62303871,VPS13C,1.378802637,Parkinson Disease,vacuolar protein sorting 13 homolog C,0.8
+892,chr15,62303871,VPS13C,1.378802637,Young onset Parkinson disease,vacuolar protein sorting 13 homolog C,0.7
+893,chr15,62303871,VPS13C,1.378802637,Idiopathic Parkinsonism or Parkinson's disease,vacuolar protein sorting 13 homolog C,0.45
+894,chr15,62303871,VPS13C,1.378802637,Primary Parkinsonism or Parkinson's disease,vacuolar protein sorting 13 homolog C,0.45
+895,chr15,89876833,POLG,1.376258239,Parkinson Disease,"DNA polymerase gamma, catalytic subunit",0.8
+896,chr15,89876981,POLG,1.39450747,Parkinson Disease,"DNA polymerase gamma, catalytic subunit",0.8
+897,chr15,99192890,IGF1R,1.383486643,Parkinson Disease,insulin like growth factor 1 receptor,0.55
+898,chr15,99259184,IGF1R,1.682945153,Parkinson Disease,insulin like growth factor 1 receptor,0.55
+899,chr15,99281188,IGF1R,1.402341314,Parkinson Disease,insulin like growth factor 1 receptor,0.55
+900,chr15,99285391,IGF1R,1.36783447,Parkinson Disease,insulin like growth factor 1 receptor,0.55
+901,chr15,99289638,IGF1R,1.100578693,Parkinson Disease,insulin like growth factor 1 receptor,0.55
+902,chr15,99294452,IGF1R,1.013593787,Parkinson Disease,insulin like growth factor 1 receptor,0.55
+903,chr15,99295792,IGF1R,1.003543681,Parkinson Disease,insulin like growth factor 1 receptor,0.55
+904,chr15,99309213,IGF1R,1.068499512,Parkinson Disease,insulin like growth factor 1 receptor,0.55
+905,chr15,99334438,IGF1R,1.392676487,Parkinson Disease,insulin like growth factor 1 receptor,0.55
+906,chr15,99457815,IGF1R,1.300497708,Parkinson Disease,insulin like growth factor 1 receptor,0.55
+907,chr15,99506475,IGF1R,1.36954576,Parkinson Disease,insulin like growth factor 1 receptor,0.55
+908,chr18,9113230,NDUFV2,1.022506625,Parkinson Disease,NADH:ubiquinone oxidoreductase core subunit V2,0.65
+909,chr2,37327989,EIF2AK2,1.38194624,Parkinson Disease,eukaryotic translation initiation factor 2 alpha kinase 2,0.65
